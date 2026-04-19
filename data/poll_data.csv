@@ -1,0 +1,1001 @@
+respondent_id,date,region,age_group,gender,education,preferred_product,satisfaction,nps_category,rating,would_buy_again
+R1000,2024-04-04,West,25-34,Male,Master's,Product B,Neutral,Detractor,8,No
+R1001,2024-05-13,East,18-24,Female,Master's,Product C,Very Dissatisfied,Detractor,2,Yes
+R1002,2024-05-14,East,18-24,Female,Bachelor's,Product E,Very Satisfied,Detractor,3,Yes
+R1003,2024-04-29,Central,35-44,Female,Bachelor's,Product B,Dissatisfied,Promoter,8,Yes
+R1004,2024-03-15,East,55+,Male,Master's,Product B,Very Satisfied,Detractor,7,Yes
+R1005,2024-05-02,Central,35-44,Female,Bachelor's,Product B,Neutral,Passive,4,Maybe
+R1006,2024-04-23,Central,18-24,Female,Master's,Product E,Very Satisfied,Promoter,5,Maybe
+R1007,2024-04-02,North,45-54,Female,Master's,Product D,Satisfied,Detractor,4,Yes
+R1008,2024-06-04,West,55+,Female,Bachelor's,Product B,Neutral,Promoter,3,No
+R1009,2024-01-25,West,25-34,Male,Bachelor's,Product A,Dissatisfied,Passive,8,Yes
+R1010,2024-05-26,South,35-44,Male,Bachelor's,Product B,Neutral,Promoter,4,Maybe
+R1011,2024-01-14,Central,55+,Female,High School,Product C,Neutral,Passive,8,Maybe
+R1012,2024-04-25,East,18-24,Male,PhD,Product E,Very Satisfied,Detractor,6,Yes
+R1013,2024-06-25,Central,18-24,Female,Bachelor's,Product E,Neutral,Promoter,4,Yes
+R1014,2024-06-18,East,25-34,Male,Bachelor's,Product E,Satisfied,Promoter,3,Yes
+R1015,2024-06-11,North,45-54,Male,PhD,Product A,Satisfied,Passive,2,No
+R1016,2024-02-20,North,45-54,Male,Bachelor's,Product D,Satisfied,Promoter,7,No
+R1017,2024-06-08,Central,35-44,Male,Master's,Product A,Very Satisfied,Promoter,8,No
+R1018,2024-05-17,North,35-44,Male,Bachelor's,Product B,Satisfied,Passive,4,Yes
+R1019,2024-02-27,Central,35-44,Male,Bachelor's,Product C,Satisfied,Promoter,2,Maybe
+R1020,2024-04-09,North,18-24,Male,Bachelor's,Product D,Very Satisfied,Promoter,5,Yes
+R1021,2024-02-01,North,45-54,Male,High School,Product A,Neutral,Detractor,4,Maybe
+R1022,2024-03-08,Central,25-34,Male,High School,Product A,Very Satisfied,Promoter,4,No
+R1023,2024-04-05,South,25-34,Female,Bachelor's,Product B,Dissatisfied,Promoter,7,Yes
+R1024,2024-02-08,Central,55+,Male,Bachelor's,Product B,Satisfied,Detractor,6,Maybe
+R1025,2024-02-12,North,25-34,Female,PhD,Product B,Very Satisfied,Passive,1,Yes
+R1026,2024-01-19,South,55+,Male,Bachelor's,Product C,Satisfied,Promoter,2,Yes
+R1027,2024-06-27,East,25-34,Female,Master's,Product C,Very Satisfied,Passive,6,Maybe
+R1028,2024-06-12,Central,25-34,Male,Bachelor's,Product B,Neutral,Promoter,9,Yes
+R1029,2024-06-20,South,55+,Female,Bachelor's,Product C,Satisfied,Promoter,6,No
+R1030,2024-03-03,East,55+,Female,Bachelor's,Product B,Satisfied,Promoter,1,No
+R1031,2024-01-26,East,25-34,Male,PhD,Product A,Satisfied,Promoter,4,Yes
+R1032,2024-04-22,West,35-44,Female,PhD,Product A,Neutral,Passive,9,Yes
+R1033,2024-03-31,North,18-24,Female,Master's,Product B,Very Satisfied,Detractor,5,Yes
+R1034,2024-03-08,East,25-34,Male,Bachelor's,Product D,Very Dissatisfied,Detractor,9,Yes
+R1035,2024-02-05,West,35-44,Female,Master's,Product C,Neutral,Detractor,9,Maybe
+R1036,2024-05-04,West,35-44,Non-binary,PhD,Product A,Neutral,Detractor,7,No
+R1037,2024-04-15,South,55+,Female,High School,Product A,Satisfied,Detractor,4,Maybe
+R1038,2024-06-12,South,35-44,Female,High School,Product C,Very Satisfied,Promoter,2,Maybe
+R1039,2024-01-11,East,25-34,Female,High School,Product B,Satisfied,Detractor,9,No
+R1040,2024-02-29,North,55+,Female,Bachelor's,Product A,Dissatisfied,Promoter,7,Yes
+R1041,2024-01-18,South,35-44,Male,High School,Product A,Very Satisfied,Promoter,9,No
+R1042,2024-02-26,West,18-24,Female,Bachelor's,Product C,Neutral,Promoter,3,Yes
+R1043,2024-06-25,South,45-54,Female,Bachelor's,Product A,Dissatisfied,Promoter,1,Yes
+R1044,2024-02-24,West,45-54,Female,Master's,Product A,Satisfied,Detractor,8,Yes
+R1045,2024-02-20,Central,25-34,Male,PhD,Product B,Very Dissatisfied,Passive,5,Maybe
+R1046,2024-06-16,South,35-44,Male,Bachelor's,Product A,Neutral,Promoter,5,No
+R1047,2024-04-18,North,18-24,Female,PhD,Product A,Satisfied,Detractor,1,Yes
+R1048,2024-03-20,East,55+,Male,Bachelor's,Product C,Satisfied,Promoter,9,Yes
+R1049,2024-05-31,East,45-54,Male,High School,Product D,Very Satisfied,Promoter,9,No
+R1050,2024-04-13,East,25-34,Male,Bachelor's,Product B,Neutral,Passive,6,Maybe
+R1051,2024-06-08,Central,45-54,Male,Master's,Product B,Satisfied,Passive,10,No
+R1052,2024-02-17,South,35-44,Female,Master's,Product B,Dissatisfied,Promoter,9,Yes
+R1053,2024-04-14,Central,18-24,Female,High School,Product D,Very Satisfied,Detractor,10,Yes
+R1054,2024-01-05,South,25-34,Female,Bachelor's,Product E,Very Satisfied,Passive,7,Yes
+R1055,2024-01-06,Central,35-44,Non-binary,Bachelor's,Product A,Neutral,Passive,3,Yes
+R1056,2024-04-21,East,25-34,Male,Master's,Product B,Very Satisfied,Detractor,6,Maybe
+R1057,2024-01-02,West,25-34,Female,High School,Product D,Neutral,Passive,6,No
+R1058,2024-02-10,East,25-34,Female,PhD,Product E,Neutral,Promoter,7,Yes
+R1059,2024-05-28,North,35-44,Male,High School,Product A,Satisfied,Detractor,3,Yes
+R1060,2024-02-23,Central,55+,Male,Master's,Product D,Very Satisfied,Promoter,3,Maybe
+R1061,2024-01-10,West,45-54,Female,PhD,Product E,Very Dissatisfied,Detractor,5,Maybe
+R1062,2024-04-08,North,25-34,Female,Bachelor's,Product A,Very Satisfied,Passive,2,Maybe
+R1063,2024-02-07,East,45-54,Male,Master's,Product D,Neutral,Detractor,4,Yes
+R1064,2024-04-19,Central,45-54,Male,PhD,Product C,Neutral,Passive,7,Yes
+R1065,2024-05-05,West,45-54,Male,Bachelor's,Product B,Very Satisfied,Passive,5,No
+R1066,2024-04-29,East,55+,Male,Bachelor's,Product C,Satisfied,Detractor,6,Yes
+R1067,2024-06-05,Central,18-24,Female,Master's,Product A,Satisfied,Promoter,1,Yes
+R1068,2024-01-13,West,45-54,Male,Master's,Product E,Very Satisfied,Passive,9,Yes
+R1069,2024-04-08,North,55+,Male,Bachelor's,Product A,Satisfied,Passive,2,Maybe
+R1070,2024-01-20,South,45-54,Male,Bachelor's,Product C,Very Satisfied,Detractor,7,No
+R1071,2024-03-30,North,25-34,Female,PhD,Product C,Neutral,Passive,7,No
+R1072,2024-04-16,West,25-34,Female,Bachelor's,Product A,Very Satisfied,Passive,2,Yes
+R1073,2024-05-14,West,55+,Male,Bachelor's,Product A,Satisfied,Passive,7,Yes
+R1074,2024-02-22,East,45-54,Female,Master's,Product A,Very Dissatisfied,Detractor,3,Yes
+R1075,2024-02-22,East,35-44,Male,Bachelor's,Product A,Dissatisfied,Promoter,5,No
+R1076,2024-04-28,Central,45-54,Female,Master's,Product D,Satisfied,Passive,3,No
+R1077,2024-01-08,West,25-34,Female,Bachelor's,Product E,Dissatisfied,Passive,10,Maybe
+R1078,2024-04-16,South,55+,Male,Bachelor's,Product C,Neutral,Promoter,8,Yes
+R1079,2024-02-25,South,45-54,Male,Bachelor's,Product B,Very Satisfied,Passive,6,Maybe
+R1080,2024-05-03,North,45-54,Female,High School,Product B,Very Dissatisfied,Promoter,5,Yes
+R1081,2024-01-12,North,45-54,Male,PhD,Product B,Very Satisfied,Promoter,10,Yes
+R1082,2024-02-19,West,18-24,Male,Bachelor's,Product D,Neutral,Promoter,4,Yes
+R1083,2024-01-13,East,55+,Male,Bachelor's,Product C,Neutral,Passive,6,Yes
+R1084,2024-02-27,Central,45-54,Male,High School,Product C,Very Dissatisfied,Promoter,7,Yes
+R1085,2024-04-09,Central,55+,Male,High School,Product C,Neutral,Promoter,2,Maybe
+R1086,2024-06-29,East,25-34,Male,PhD,Product C,Satisfied,Passive,7,No
+R1087,2024-05-09,West,55+,Male,PhD,Product D,Very Satisfied,Promoter,7,No
+R1088,2024-05-16,Central,25-34,Female,PhD,Product B,Very Satisfied,Promoter,10,Maybe
+R1089,2024-02-29,North,45-54,Male,Master's,Product D,Neutral,Detractor,5,No
+R1090,2024-03-10,North,25-34,Male,High School,Product C,Satisfied,Detractor,9,Maybe
+R1091,2024-03-22,North,55+,Female,Master's,Product D,Satisfied,Promoter,6,Yes
+R1092,2024-04-04,South,25-34,Female,Bachelor's,Product D,Satisfied,Promoter,7,Yes
+R1093,2024-02-09,North,45-54,Female,Bachelor's,Product B,Satisfied,Passive,1,Yes
+R1094,2024-05-22,South,35-44,Female,Master's,Product C,Satisfied,Promoter,10,Maybe
+R1095,2024-03-19,South,45-54,Male,Bachelor's,Product B,Satisfied,Passive,4,No
+R1096,2024-05-18,South,45-54,Female,High School,Product A,Very Satisfied,Passive,9,No
+R1097,2024-01-16,East,45-54,Female,Bachelor's,Product A,Satisfied,Promoter,4,No
+R1098,2024-01-12,Central,45-54,Female,Bachelor's,Product C,Neutral,Promoter,4,Maybe
+R1099,2024-05-29,East,45-54,Male,Bachelor's,Product C,Very Satisfied,Passive,10,Maybe
+R1100,2024-05-09,West,45-54,Male,Master's,Product B,Satisfied,Promoter,7,No
+R1101,2024-03-04,Central,45-54,Male,Bachelor's,Product C,Satisfied,Detractor,8,Maybe
+R1102,2024-06-18,North,25-34,Male,Bachelor's,Product C,Dissatisfied,Passive,9,Yes
+R1103,2024-02-16,West,25-34,Male,Bachelor's,Product A,Neutral,Detractor,7,Yes
+R1104,2024-04-25,Central,35-44,Female,Bachelor's,Product A,Satisfied,Passive,9,Maybe
+R1105,2024-04-26,East,55+,Female,Bachelor's,Product B,Neutral,Promoter,8,Yes
+R1106,2024-04-10,East,45-54,Female,Bachelor's,Product A,Very Satisfied,Promoter,1,No
+R1107,2024-06-22,North,18-24,Male,Bachelor's,Product A,Satisfied,Promoter,5,Yes
+R1108,2024-01-31,Central,25-34,Female,Bachelor's,Product B,Very Satisfied,Promoter,2,Yes
+R1109,2024-06-15,East,25-34,Male,Bachelor's,Product C,Very Satisfied,Detractor,9,Yes
+R1110,2024-04-05,South,18-24,Female,High School,Product B,Very Dissatisfied,Passive,7,Yes
+R1111,2024-05-29,Central,45-54,Female,Bachelor's,Product D,Satisfied,Passive,2,Maybe
+R1112,2024-06-27,North,55+,Female,Master's,Product C,Very Satisfied,Promoter,2,Yes
+R1113,2024-05-27,North,55+,Male,Bachelor's,Product B,Dissatisfied,Promoter,10,No
+R1114,2024-01-16,East,35-44,Female,Bachelor's,Product B,Satisfied,Promoter,6,Maybe
+R1115,2024-03-19,East,25-34,Female,Master's,Product D,Satisfied,Promoter,5,Yes
+R1116,2024-02-03,East,25-34,Male,PhD,Product C,Very Dissatisfied,Passive,6,Yes
+R1117,2024-06-26,North,55+,Male,PhD,Product D,Neutral,Promoter,5,Yes
+R1118,2024-04-06,North,45-54,Male,Master's,Product A,Satisfied,Detractor,4,Yes
+R1119,2024-02-23,West,55+,Male,Bachelor's,Product B,Satisfied,Passive,2,Yes
+R1120,2024-06-10,South,35-44,Female,Bachelor's,Product B,Satisfied,Promoter,5,Yes
+R1121,2024-03-18,East,45-54,Female,Bachelor's,Product A,Very Satisfied,Promoter,4,No
+R1122,2024-05-09,South,55+,Female,Bachelor's,Product A,Satisfied,Passive,7,No
+R1123,2024-02-17,Central,25-34,Male,Bachelor's,Product D,Satisfied,Passive,8,Yes
+R1124,2024-02-12,North,55+,Male,Bachelor's,Product E,Dissatisfied,Detractor,4,Yes
+R1125,2024-04-11,North,45-54,Female,Bachelor's,Product A,Very Satisfied,Promoter,2,Yes
+R1126,2024-04-15,West,25-34,Male,Bachelor's,Product B,Satisfied,Detractor,1,Maybe
+R1127,2024-03-21,North,18-24,Female,Master's,Product A,Satisfied,Detractor,8,Yes
+R1128,2024-06-06,East,25-34,Male,Bachelor's,Product B,Dissatisfied,Passive,3,Yes
+R1129,2024-05-24,West,18-24,Male,High School,Product A,Neutral,Passive,3,Yes
+R1130,2024-04-18,North,55+,Female,Bachelor's,Product B,Very Dissatisfied,Detractor,3,No
+R1131,2024-06-02,West,35-44,Male,High School,Product C,Neutral,Promoter,6,Yes
+R1132,2024-02-18,West,18-24,Male,Master's,Product D,Satisfied,Promoter,1,Yes
+R1133,2024-06-29,West,18-24,Female,Bachelor's,Product A,Very Dissatisfied,Detractor,8,Yes
+R1134,2024-04-05,Central,55+,Female,Bachelor's,Product C,Very Satisfied,Promoter,1,Maybe
+R1135,2024-01-10,North,18-24,Male,Bachelor's,Product B,Very Satisfied,Promoter,4,Yes
+R1136,2024-01-22,East,18-24,Female,Bachelor's,Product E,Dissatisfied,Detractor,9,Yes
+R1137,2024-02-08,Central,55+,Male,PhD,Product D,Satisfied,Promoter,6,Maybe
+R1138,2024-01-05,North,45-54,Male,High School,Product A,Neutral,Detractor,3,Yes
+R1139,2024-01-14,West,55+,Male,Master's,Product D,Neutral,Promoter,7,No
+R1140,2024-01-08,West,18-24,Female,High School,Product C,Very Satisfied,Promoter,5,Maybe
+R1141,2024-02-14,West,35-44,Male,Master's,Product A,Satisfied,Passive,7,No
+R1142,2024-05-10,South,18-24,Male,Bachelor's,Product C,Dissatisfied,Detractor,1,Yes
+R1143,2024-02-20,North,25-34,Female,Master's,Product C,Dissatisfied,Passive,3,Maybe
+R1144,2024-06-10,West,55+,Female,Master's,Product A,Very Satisfied,Passive,6,No
+R1145,2024-06-14,Central,25-34,Female,Bachelor's,Product D,Very Satisfied,Passive,4,Yes
+R1146,2024-05-26,East,55+,Female,Bachelor's,Product C,Neutral,Passive,2,No
+R1147,2024-02-14,West,45-54,Male,Bachelor's,Product A,Neutral,Passive,10,No
+R1148,2024-05-28,West,35-44,Male,High School,Product B,Satisfied,Promoter,4,Yes
+R1149,2024-02-28,West,35-44,Female,Master's,Product A,Very Satisfied,Passive,4,Maybe
+R1150,2024-04-26,East,45-54,Male,Bachelor's,Product C,Very Satisfied,Promoter,2,Yes
+R1151,2024-01-29,East,18-24,Female,Bachelor's,Product D,Very Dissatisfied,Detractor,3,Yes
+R1152,2024-06-26,South,35-44,Male,Bachelor's,Product B,Satisfied,Detractor,4,Yes
+R1153,2024-03-18,West,25-34,Female,Master's,Product A,Very Satisfied,Promoter,9,Maybe
+R1154,2024-06-19,North,45-54,Male,Bachelor's,Product A,Very Satisfied,Promoter,7,Maybe
+R1155,2024-03-24,South,25-34,Female,Bachelor's,Product A,Dissatisfied,Promoter,2,Maybe
+R1156,2024-02-25,North,55+,Female,Bachelor's,Product A,Dissatisfied,Promoter,8,Yes
+R1157,2024-05-06,Central,25-34,Female,Master's,Product C,Satisfied,Detractor,5,No
+R1158,2024-01-11,South,55+,Female,Bachelor's,Product E,Neutral,Promoter,9,Yes
+R1159,2024-06-09,Central,45-54,Male,High School,Product C,Satisfied,Detractor,2,Yes
+R1160,2024-04-17,East,18-24,Female,Bachelor's,Product D,Very Satisfied,Detractor,10,Yes
+R1161,2024-05-18,South,18-24,Female,Bachelor's,Product B,Neutral,Passive,8,Maybe
+R1162,2024-04-27,West,35-44,Male,High School,Product D,Very Satisfied,Promoter,4,Yes
+R1163,2024-04-27,West,45-54,Female,Bachelor's,Product E,Dissatisfied,Detractor,9,No
+R1164,2024-06-05,West,25-34,Female,Bachelor's,Product A,Satisfied,Promoter,10,Yes
+R1165,2024-05-01,West,18-24,Male,High School,Product C,Very Satisfied,Promoter,8,Yes
+R1166,2024-02-23,West,18-24,Female,Bachelor's,Product E,Satisfied,Detractor,8,Yes
+R1167,2024-05-04,West,45-54,Female,High School,Product C,Satisfied,Detractor,8,Yes
+R1168,2024-02-26,West,18-24,Male,Bachelor's,Product E,Dissatisfied,Promoter,6,Maybe
+R1169,2024-02-26,East,18-24,Female,Bachelor's,Product E,Satisfied,Detractor,5,No
+R1170,2024-03-06,South,45-54,Non-binary,PhD,Product C,Very Satisfied,Passive,3,Yes
+R1171,2024-03-27,North,45-54,Female,High School,Product C,Very Satisfied,Detractor,4,Maybe
+R1172,2024-01-20,East,45-54,Male,Bachelor's,Product D,Satisfied,Promoter,2,Maybe
+R1173,2024-06-28,West,45-54,Female,Bachelor's,Product A,Very Satisfied,Passive,3,Yes
+R1174,2024-03-29,North,35-44,Male,Master's,Product C,Neutral,Promoter,5,Maybe
+R1175,2024-03-06,East,35-44,Male,Master's,Product A,Satisfied,Promoter,7,Yes
+R1176,2024-02-16,West,45-54,Non-binary,High School,Product A,Satisfied,Detractor,6,Yes
+R1177,2024-02-16,Central,35-44,Female,Bachelor's,Product D,Dissatisfied,Promoter,9,Maybe
+R1178,2024-05-25,Central,25-34,Female,Master's,Product A,Very Satisfied,Promoter,6,Yes
+R1179,2024-05-02,Central,35-44,Male,Master's,Product B,Very Satisfied,Passive,10,Maybe
+R1180,2024-03-30,North,35-44,Non-binary,Master's,Product C,Dissatisfied,Detractor,9,Yes
+R1181,2024-05-01,North,45-54,Female,Bachelor's,Product A,Very Satisfied,Promoter,1,Yes
+R1182,2024-03-09,North,45-54,Male,Bachelor's,Product A,Satisfied,Passive,4,Yes
+R1183,2024-04-05,West,25-34,Female,Bachelor's,Product E,Very Satisfied,Promoter,1,Yes
+R1184,2024-06-02,West,35-44,Male,Master's,Product C,Neutral,Promoter,5,No
+R1185,2024-01-25,North,55+,Male,PhD,Product C,Dissatisfied,Detractor,1,Yes
+R1186,2024-03-05,West,45-54,Male,High School,Product B,Very Satisfied,Promoter,5,No
+R1187,2024-03-07,West,18-24,Female,Bachelor's,Product C,Very Satisfied,Promoter,3,No
+R1188,2024-06-19,South,25-34,Male,PhD,Product B,Satisfied,Detractor,2,Yes
+R1189,2024-05-15,West,25-34,Female,Bachelor's,Product B,Satisfied,Passive,3,Yes
+R1190,2024-06-20,East,55+,Male,Bachelor's,Product C,Dissatisfied,Promoter,8,Yes
+R1191,2024-05-30,West,18-24,Male,Master's,Product D,Satisfied,Promoter,9,Yes
+R1192,2024-04-28,Central,18-24,Female,High School,Product B,Satisfied,Detractor,3,Yes
+R1193,2024-02-06,Central,18-24,Male,Master's,Product E,Neutral,Promoter,1,Maybe
+R1194,2024-02-08,West,25-34,Female,Master's,Product A,Neutral,Detractor,1,No
+R1195,2024-03-14,South,25-34,Male,Bachelor's,Product B,Satisfied,Promoter,8,Maybe
+R1196,2024-03-01,North,45-54,Male,Bachelor's,Product E,Neutral,Passive,2,Maybe
+R1197,2024-02-07,Central,25-34,Female,High School,Product A,Very Satisfied,Promoter,6,Yes
+R1198,2024-04-21,South,55+,Male,Bachelor's,Product A,Very Satisfied,Passive,3,Yes
+R1199,2024-01-15,Central,25-34,Female,Master's,Product A,Satisfied,Detractor,6,Maybe
+R1200,2024-01-06,East,25-34,Male,High School,Product C,Dissatisfied,Passive,2,Yes
+R1201,2024-04-06,East,45-54,Female,Master's,Product A,Dissatisfied,Promoter,9,Yes
+R1202,2024-05-05,West,18-24,Female,Bachelor's,Product A,Neutral,Promoter,1,Yes
+R1203,2024-04-10,West,35-44,Male,Bachelor's,Product C,Satisfied,Promoter,1,Yes
+R1204,2024-05-31,Central,25-34,Female,Bachelor's,Product C,Very Satisfied,Promoter,2,Yes
+R1205,2024-04-17,East,35-44,Non-binary,Bachelor's,Product A,Very Satisfied,Promoter,10,Yes
+R1206,2024-01-30,East,55+,Male,Bachelor's,Product D,Very Satisfied,Detractor,5,Yes
+R1207,2024-06-15,West,25-34,Female,PhD,Product B,Very Dissatisfied,Promoter,6,Yes
+R1208,2024-03-30,Central,18-24,Female,Bachelor's,Product E,Dissatisfied,Passive,10,Maybe
+R1209,2024-05-29,Central,35-44,Male,Bachelor's,Product C,Very Satisfied,Detractor,4,Yes
+R1210,2024-01-12,West,55+,Male,Bachelor's,Product B,Satisfied,Detractor,2,No
+R1211,2024-01-26,North,25-34,Male,Master's,Product A,Dissatisfied,Passive,6,Yes
+R1212,2024-06-16,East,55+,Female,Bachelor's,Product B,Very Satisfied,Passive,7,Yes
+R1213,2024-05-29,North,45-54,Male,High School,Product E,Very Dissatisfied,Passive,4,Maybe
+R1214,2024-04-28,South,45-54,Male,Bachelor's,Product D,Satisfied,Passive,9,Yes
+R1215,2024-02-29,North,35-44,Female,Bachelor's,Product B,Neutral,Passive,7,Maybe
+R1216,2024-04-30,North,45-54,Male,Bachelor's,Product A,Very Satisfied,Promoter,3,Yes
+R1217,2024-02-15,Central,55+,Female,High School,Product B,Neutral,Passive,6,Yes
+R1218,2024-06-13,Central,45-54,Female,Bachelor's,Product A,Very Dissatisfied,Promoter,3,Yes
+R1219,2024-05-08,South,18-24,Male,High School,Product A,Satisfied,Passive,5,Yes
+R1220,2024-02-25,Central,45-54,Female,Master's,Product D,Neutral,Promoter,9,No
+R1221,2024-05-12,West,35-44,Male,High School,Product D,Very Dissatisfied,Promoter,3,Yes
+R1222,2024-06-25,South,18-24,Female,Master's,Product D,Very Satisfied,Promoter,8,Yes
+R1223,2024-01-09,West,25-34,Male,Master's,Product E,Satisfied,Detractor,7,Yes
+R1224,2024-06-11,North,18-24,Female,PhD,Product C,Satisfied,Passive,6,Yes
+R1225,2024-01-01,South,25-34,Female,Bachelor's,Product C,Satisfied,Passive,4,Yes
+R1226,2024-04-08,West,55+,Female,Master's,Product B,Very Satisfied,Detractor,8,No
+R1227,2024-03-04,East,18-24,Female,Bachelor's,Product A,Satisfied,Promoter,6,No
+R1228,2024-06-12,South,18-24,Male,PhD,Product A,Very Dissatisfied,Detractor,3,No
+R1229,2024-04-07,South,45-54,Female,PhD,Product E,Satisfied,Promoter,8,Maybe
+R1230,2024-03-03,Central,18-24,Female,Bachelor's,Product C,Neutral,Passive,10,Yes
+R1231,2024-06-29,Central,55+,Female,High School,Product A,Very Satisfied,Passive,9,Yes
+R1232,2024-03-28,Central,45-54,Female,Bachelor's,Product A,Satisfied,Detractor,9,Yes
+R1233,2024-04-14,South,35-44,Male,High School,Product D,Satisfied,Detractor,2,Yes
+R1234,2024-01-06,North,35-44,Female,Bachelor's,Product C,Neutral,Promoter,9,Yes
+R1235,2024-01-06,West,25-34,Female,PhD,Product A,Neutral,Passive,1,Maybe
+R1236,2024-02-11,West,35-44,Male,High School,Product A,Satisfied,Promoter,5,No
+R1237,2024-06-23,Central,55+,Female,Master's,Product C,Very Dissatisfied,Promoter,3,Yes
+R1238,2024-02-04,North,45-54,Female,High School,Product B,Very Dissatisfied,Passive,6,Maybe
+R1239,2024-03-01,West,18-24,Female,PhD,Product A,Very Satisfied,Detractor,9,Yes
+R1240,2024-01-01,Central,18-24,Female,Bachelor's,Product B,Satisfied,Promoter,5,No
+R1241,2024-02-06,West,35-44,Male,Master's,Product D,Neutral,Passive,6,Yes
+R1242,2024-04-03,East,55+,Male,Bachelor's,Product B,Neutral,Passive,10,No
+R1243,2024-05-24,North,55+,Female,Master's,Product B,Satisfied,Detractor,1,Yes
+R1244,2024-02-25,West,25-34,Female,Master's,Product B,Satisfied,Detractor,8,No
+R1245,2024-01-20,West,35-44,Male,Bachelor's,Product E,Satisfied,Passive,9,No
+R1246,2024-03-18,South,18-24,Female,Bachelor's,Product B,Very Satisfied,Passive,6,Yes
+R1247,2024-01-14,Central,25-34,Female,High School,Product B,Dissatisfied,Passive,10,Yes
+R1248,2024-01-16,East,55+,Female,Master's,Product C,Very Satisfied,Detractor,2,Maybe
+R1249,2024-02-21,West,45-54,Non-binary,High School,Product E,Very Dissatisfied,Passive,10,Yes
+R1250,2024-01-15,West,35-44,Male,PhD,Product A,Very Satisfied,Promoter,6,Yes
+R1251,2024-06-28,East,55+,Female,PhD,Product E,Satisfied,Detractor,7,Yes
+R1252,2024-05-22,South,45-54,Male,Bachelor's,Product C,Very Satisfied,Passive,6,Maybe
+R1253,2024-06-10,West,18-24,Female,Master's,Product C,Satisfied,Detractor,5,Yes
+R1254,2024-03-13,West,25-34,Female,Master's,Product B,Very Satisfied,Passive,10,Maybe
+R1255,2024-02-28,East,25-34,Non-binary,High School,Product D,Satisfied,Promoter,5,Yes
+R1256,2024-04-04,East,18-24,Male,Bachelor's,Product D,Very Dissatisfied,Promoter,5,Yes
+R1257,2024-06-14,West,18-24,Male,High School,Product E,Very Satisfied,Passive,9,Yes
+R1258,2024-06-16,South,18-24,Male,Master's,Product B,Very Dissatisfied,Passive,8,No
+R1259,2024-01-01,East,45-54,Female,Bachelor's,Product B,Dissatisfied,Detractor,8,Yes
+R1260,2024-05-12,West,25-34,Female,Bachelor's,Product A,Satisfied,Promoter,7,Yes
+R1261,2024-03-25,North,35-44,Male,PhD,Product B,Satisfied,Detractor,8,Yes
+R1262,2024-01-18,West,25-34,Female,Bachelor's,Product E,Satisfied,Passive,5,Yes
+R1263,2024-02-18,Central,55+,Male,Bachelor's,Product B,Satisfied,Promoter,6,Yes
+R1264,2024-03-05,South,55+,Male,Bachelor's,Product A,Neutral,Detractor,6,No
+R1265,2024-06-06,West,18-24,Female,Bachelor's,Product B,Satisfied,Passive,3,Yes
+R1266,2024-05-24,East,45-54,Non-binary,Master's,Product B,Satisfied,Passive,7,Yes
+R1267,2024-03-09,South,35-44,Male,Bachelor's,Product A,Neutral,Passive,1,No
+R1268,2024-04-24,West,18-24,Male,Bachelor's,Product E,Neutral,Promoter,1,Maybe
+R1269,2024-03-10,South,35-44,Female,High School,Product A,Dissatisfied,Promoter,2,Maybe
+R1270,2024-03-29,Central,18-24,Male,Bachelor's,Product E,Dissatisfied,Passive,7,Yes
+R1271,2024-01-22,North,35-44,Female,Bachelor's,Product B,Dissatisfied,Promoter,4,Yes
+R1272,2024-06-12,South,18-24,Non-binary,Bachelor's,Product B,Neutral,Detractor,9,Yes
+R1273,2024-02-15,East,55+,Female,Master's,Product D,Very Satisfied,Detractor,3,Maybe
+R1274,2024-04-04,East,35-44,Female,High School,Product B,Satisfied,Detractor,3,Yes
+R1275,2024-01-02,East,25-34,Female,PhD,Product A,Neutral,Promoter,1,Yes
+R1276,2024-02-05,Central,35-44,Male,Bachelor's,Product E,Satisfied,Detractor,5,Yes
+R1277,2024-04-19,East,18-24,Male,Bachelor's,Product D,Satisfied,Promoter,7,Maybe
+R1278,2024-01-15,Central,45-54,Female,Bachelor's,Product A,Satisfied,Detractor,8,Maybe
+R1279,2024-05-21,South,25-34,Female,High School,Product B,Very Dissatisfied,Promoter,10,Yes
+R1280,2024-04-16,North,55+,Male,Bachelor's,Product A,Satisfied,Promoter,3,Yes
+R1281,2024-05-24,North,35-44,Male,Bachelor's,Product C,Very Dissatisfied,Passive,7,Yes
+R1282,2024-02-13,West,35-44,Male,Master's,Product B,Very Satisfied,Passive,5,Yes
+R1283,2024-02-22,East,35-44,Female,Master's,Product C,Satisfied,Promoter,2,Maybe
+R1284,2024-02-08,North,35-44,Male,High School,Product E,Neutral,Detractor,8,No
+R1285,2024-05-09,South,18-24,Male,Bachelor's,Product B,Very Dissatisfied,Passive,3,Maybe
+R1286,2024-03-06,West,18-24,Female,High School,Product E,Very Dissatisfied,Promoter,2,No
+R1287,2024-03-22,South,35-44,Female,High School,Product D,Dissatisfied,Detractor,9,Yes
+R1288,2024-02-11,East,45-54,Female,Bachelor's,Product A,Neutral,Promoter,1,Maybe
+R1289,2024-06-21,West,18-24,Male,Bachelor's,Product B,Very Satisfied,Passive,3,Yes
+R1290,2024-06-20,North,35-44,Female,Bachelor's,Product A,Dissatisfied,Promoter,4,Maybe
+R1291,2024-05-24,Central,35-44,Female,Master's,Product D,Satisfied,Promoter,10,Yes
+R1292,2024-03-31,Central,35-44,Female,Bachelor's,Product B,Dissatisfied,Passive,8,Maybe
+R1293,2024-03-25,South,55+,Female,Bachelor's,Product D,Satisfied,Passive,5,Maybe
+R1294,2024-03-06,South,25-34,Female,Master's,Product C,Very Satisfied,Passive,7,Yes
+R1295,2024-03-25,West,45-54,Male,Master's,Product B,Neutral,Promoter,6,Yes
+R1296,2024-06-18,Central,55+,Female,PhD,Product D,Neutral,Detractor,3,Yes
+R1297,2024-03-18,Central,18-24,Male,Bachelor's,Product C,Satisfied,Promoter,10,Maybe
+R1298,2024-01-02,North,55+,Male,PhD,Product E,Satisfied,Promoter,10,Yes
+R1299,2024-01-29,North,18-24,Male,Bachelor's,Product C,Satisfied,Promoter,6,Maybe
+R1300,2024-04-08,North,45-54,Female,Master's,Product B,Neutral,Promoter,5,Yes
+R1301,2024-03-20,West,55+,Male,High School,Product C,Neutral,Passive,6,Yes
+R1302,2024-03-28,North,35-44,Female,Master's,Product A,Neutral,Passive,2,Yes
+R1303,2024-03-17,West,35-44,Male,High School,Product B,Very Satisfied,Promoter,8,No
+R1304,2024-05-20,Central,18-24,Male,Bachelor's,Product D,Neutral,Passive,1,Yes
+R1305,2024-06-20,South,35-44,Female,Bachelor's,Product A,Very Dissatisfied,Passive,5,Yes
+R1306,2024-03-01,Central,25-34,Female,High School,Product D,Neutral,Detractor,7,Yes
+R1307,2024-04-14,North,18-24,Female,Master's,Product B,Dissatisfied,Promoter,10,Yes
+R1308,2024-06-18,North,45-54,Female,Master's,Product B,Dissatisfied,Promoter,3,Yes
+R1309,2024-04-12,Central,35-44,Female,Bachelor's,Product B,Very Satisfied,Passive,9,Maybe
+R1310,2024-04-17,East,25-34,Male,Master's,Product B,Satisfied,Detractor,4,No
+R1311,2024-04-06,Central,25-34,Male,Master's,Product B,Very Dissatisfied,Passive,3,Yes
+R1312,2024-04-15,East,45-54,Male,Master's,Product C,Neutral,Promoter,2,No
+R1313,2024-05-08,North,18-24,Male,Master's,Product E,Satisfied,Promoter,8,Yes
+R1314,2024-03-22,South,55+,Female,Bachelor's,Product C,Neutral,Promoter,3,No
+R1315,2024-03-23,Central,35-44,Male,High School,Product E,Neutral,Detractor,7,No
+R1316,2024-02-11,Central,25-34,Female,Bachelor's,Product C,Very Satisfied,Passive,6,Yes
+R1317,2024-03-04,East,18-24,Male,Bachelor's,Product C,Dissatisfied,Passive,1,No
+R1318,2024-05-11,South,45-54,Male,Bachelor's,Product E,Satisfied,Passive,9,Yes
+R1319,2024-02-08,East,55+,Male,Bachelor's,Product A,Neutral,Promoter,4,Maybe
+R1320,2024-01-15,South,55+,Female,Master's,Product C,Very Satisfied,Promoter,5,No
+R1321,2024-01-27,North,45-54,Male,Bachelor's,Product A,Satisfied,Detractor,5,No
+R1322,2024-02-24,South,18-24,Female,Master's,Product B,Dissatisfied,Detractor,6,Yes
+R1323,2024-04-23,East,18-24,Female,High School,Product A,Very Dissatisfied,Promoter,10,Yes
+R1324,2024-05-20,East,35-44,Female,Bachelor's,Product B,Very Dissatisfied,Detractor,5,Maybe
+R1325,2024-04-01,East,45-54,Female,Bachelor's,Product A,Neutral,Passive,4,Yes
+R1326,2024-03-02,East,25-34,Female,Bachelor's,Product D,Satisfied,Passive,3,Yes
+R1327,2024-03-28,South,55+,Male,Bachelor's,Product B,Very Dissatisfied,Detractor,7,No
+R1328,2024-05-08,East,55+,Non-binary,PhD,Product C,Dissatisfied,Passive,9,Yes
+R1329,2024-01-25,East,55+,Female,Master's,Product B,Very Dissatisfied,Promoter,5,Yes
+R1330,2024-05-07,East,18-24,Female,Bachelor's,Product B,Neutral,Passive,8,No
+R1331,2024-02-26,South,18-24,Female,High School,Product A,Neutral,Passive,8,Maybe
+R1332,2024-05-10,East,45-54,Female,Bachelor's,Product A,Satisfied,Promoter,4,Yes
+R1333,2024-04-23,East,45-54,Male,High School,Product A,Satisfied,Promoter,4,Maybe
+R1334,2024-01-01,East,55+,Non-binary,Master's,Product B,Dissatisfied,Detractor,9,Maybe
+R1335,2024-02-27,West,55+,Female,Bachelor's,Product E,Satisfied,Detractor,4,Yes
+R1336,2024-05-07,Central,45-54,Female,Master's,Product E,Very Satisfied,Promoter,2,Yes
+R1337,2024-04-09,South,25-34,Male,High School,Product E,Very Satisfied,Passive,4,Maybe
+R1338,2024-06-06,North,45-54,Male,Master's,Product A,Satisfied,Promoter,10,Yes
+R1339,2024-04-06,North,45-54,Female,High School,Product A,Dissatisfied,Promoter,6,Maybe
+R1340,2024-03-27,South,35-44,Female,Master's,Product A,Satisfied,Passive,8,No
+R1341,2024-03-14,West,18-24,Male,PhD,Product C,Neutral,Promoter,2,Yes
+R1342,2024-02-01,Central,18-24,Female,Master's,Product E,Dissatisfied,Promoter,7,Maybe
+R1343,2024-01-23,North,18-24,Female,High School,Product C,Satisfied,Passive,6,Maybe
+R1344,2024-03-12,North,35-44,Female,High School,Product C,Satisfied,Passive,8,Yes
+R1345,2024-03-17,North,18-24,Male,Bachelor's,Product C,Satisfied,Passive,4,Maybe
+R1346,2024-04-10,North,55+,Female,High School,Product B,Very Satisfied,Promoter,3,Yes
+R1347,2024-06-12,South,55+,Female,Bachelor's,Product B,Neutral,Promoter,10,Yes
+R1348,2024-01-17,East,45-54,Female,Master's,Product D,Very Satisfied,Passive,9,Yes
+R1349,2024-06-19,Central,25-34,Female,Bachelor's,Product D,Neutral,Passive,1,No
+R1350,2024-02-02,Central,18-24,Male,Bachelor's,Product C,Very Satisfied,Passive,2,Maybe
+R1351,2024-02-19,East,25-34,Female,Bachelor's,Product A,Neutral,Passive,7,Yes
+R1352,2024-06-11,South,18-24,Female,PhD,Product B,Neutral,Passive,5,Maybe
+R1353,2024-01-13,North,35-44,Female,PhD,Product B,Satisfied,Promoter,4,Yes
+R1354,2024-02-22,North,45-54,Female,PhD,Product C,Neutral,Promoter,1,Maybe
+R1355,2024-01-24,North,18-24,Male,PhD,Product D,Neutral,Promoter,3,Maybe
+R1356,2024-02-24,East,18-24,Male,Bachelor's,Product E,Dissatisfied,Detractor,6,Yes
+R1357,2024-03-17,Central,55+,Female,Bachelor's,Product D,Very Satisfied,Promoter,1,Yes
+R1358,2024-02-29,South,35-44,Female,Bachelor's,Product C,Very Satisfied,Promoter,6,Maybe
+R1359,2024-01-27,East,45-54,Female,Bachelor's,Product B,Very Dissatisfied,Promoter,1,No
+R1360,2024-03-17,West,35-44,Male,Bachelor's,Product A,Satisfied,Promoter,2,Maybe
+R1361,2024-04-15,North,45-54,Male,Bachelor's,Product D,Very Satisfied,Promoter,8,No
+R1362,2024-01-25,Central,18-24,Female,High School,Product A,Very Satisfied,Detractor,4,Maybe
+R1363,2024-03-22,South,35-44,Female,Master's,Product D,Very Satisfied,Promoter,9,No
+R1364,2024-01-30,South,25-34,Female,Bachelor's,Product D,Satisfied,Promoter,1,Yes
+R1365,2024-01-06,South,35-44,Male,Bachelor's,Product D,Very Satisfied,Passive,1,Yes
+R1366,2024-05-20,Central,25-34,Male,Bachelor's,Product B,Very Satisfied,Promoter,5,Yes
+R1367,2024-02-04,East,45-54,Female,Master's,Product E,Dissatisfied,Passive,7,No
+R1368,2024-03-11,South,25-34,Male,High School,Product D,Dissatisfied,Promoter,5,Yes
+R1369,2024-06-03,East,55+,Female,Bachelor's,Product D,Neutral,Passive,3,No
+R1370,2024-01-31,West,45-54,Male,High School,Product C,Satisfied,Detractor,6,Yes
+R1371,2024-05-07,North,25-34,Male,Bachelor's,Product A,Very Satisfied,Passive,7,Yes
+R1372,2024-01-26,Central,18-24,Male,Bachelor's,Product C,Dissatisfied,Detractor,6,Maybe
+R1373,2024-02-01,North,18-24,Female,High School,Product E,Satisfied,Detractor,3,Yes
+R1374,2024-01-02,Central,55+,Male,Bachelor's,Product A,Very Dissatisfied,Promoter,6,Yes
+R1375,2024-05-14,North,25-34,Male,Bachelor's,Product B,Very Satisfied,Passive,2,Yes
+R1376,2024-03-27,North,55+,Male,Bachelor's,Product B,Neutral,Promoter,3,Yes
+R1377,2024-01-14,East,45-54,Female,Bachelor's,Product D,Dissatisfied,Passive,1,Maybe
+R1378,2024-06-13,South,18-24,Male,Master's,Product C,Satisfied,Promoter,4,No
+R1379,2024-05-27,West,45-54,Male,High School,Product E,Satisfied,Promoter,8,Maybe
+R1380,2024-02-13,North,55+,Female,High School,Product B,Satisfied,Promoter,3,Yes
+R1381,2024-01-27,South,25-34,Female,Bachelor's,Product D,Dissatisfied,Promoter,5,Yes
+R1382,2024-05-23,South,55+,Male,Bachelor's,Product D,Satisfied,Detractor,8,Yes
+R1383,2024-02-12,North,55+,Female,Bachelor's,Product D,Satisfied,Detractor,1,No
+R1384,2024-02-09,West,18-24,Female,Bachelor's,Product E,Dissatisfied,Detractor,4,Yes
+R1385,2024-06-16,East,55+,Non-binary,High School,Product C,Neutral,Passive,1,Yes
+R1386,2024-03-31,North,25-34,Female,Bachelor's,Product B,Satisfied,Passive,2,Yes
+R1387,2024-01-24,North,25-34,Female,High School,Product B,Very Satisfied,Promoter,3,No
+R1388,2024-06-28,South,25-34,Male,High School,Product D,Very Dissatisfied,Promoter,2,Maybe
+R1389,2024-05-20,South,25-34,Male,High School,Product C,Satisfied,Promoter,10,Maybe
+R1390,2024-02-03,North,45-54,Male,Bachelor's,Product C,Satisfied,Passive,6,Yes
+R1391,2024-01-08,East,35-44,Female,Bachelor's,Product D,Satisfied,Passive,8,Yes
+R1392,2024-05-06,Central,35-44,Female,Bachelor's,Product A,Dissatisfied,Detractor,4,Yes
+R1393,2024-01-20,Central,45-54,Male,Bachelor's,Product B,Neutral,Detractor,5,No
+R1394,2024-04-16,West,45-54,Male,Bachelor's,Product D,Neutral,Promoter,4,No
+R1395,2024-01-11,West,25-34,Male,Master's,Product A,Very Satisfied,Promoter,7,Maybe
+R1396,2024-03-14,East,55+,Male,Bachelor's,Product B,Very Satisfied,Promoter,6,Yes
+R1397,2024-03-21,North,45-54,Female,Master's,Product B,Very Satisfied,Passive,5,Yes
+R1398,2024-05-17,West,55+,Non-binary,High School,Product B,Satisfied,Promoter,10,Maybe
+R1399,2024-06-29,East,18-24,Female,Bachelor's,Product E,Neutral,Passive,10,Yes
+R1400,2024-01-05,West,18-24,Female,Bachelor's,Product A,Satisfied,Promoter,7,Yes
+R1401,2024-03-25,South,25-34,Male,Bachelor's,Product B,Very Satisfied,Passive,5,Maybe
+R1402,2024-04-07,South,25-34,Female,High School,Product A,Very Dissatisfied,Passive,3,Yes
+R1403,2024-04-06,South,35-44,Female,Bachelor's,Product C,Satisfied,Passive,6,Yes
+R1404,2024-04-21,Central,25-34,Female,Bachelor's,Product C,Neutral,Promoter,5,No
+R1405,2024-05-05,Central,18-24,Female,High School,Product E,Satisfied,Passive,2,Yes
+R1406,2024-06-16,North,45-54,Male,Bachelor's,Product D,Dissatisfied,Passive,2,Yes
+R1407,2024-03-02,West,45-54,Male,Bachelor's,Product C,Very Dissatisfied,Promoter,5,No
+R1408,2024-01-10,Central,55+,Male,High School,Product C,Satisfied,Detractor,6,Yes
+R1409,2024-04-01,West,55+,Male,Bachelor's,Product C,Dissatisfied,Detractor,1,Maybe
+R1410,2024-04-03,West,25-34,Female,Bachelor's,Product D,Very Satisfied,Detractor,5,No
+R1411,2024-06-15,West,18-24,Female,Bachelor's,Product B,Very Satisfied,Promoter,9,Yes
+R1412,2024-05-21,West,25-34,Male,Master's,Product C,Satisfied,Promoter,1,Yes
+R1413,2024-02-17,East,18-24,Female,High School,Product A,Dissatisfied,Detractor,4,No
+R1414,2024-05-28,North,55+,Male,Bachelor's,Product A,Neutral,Promoter,9,Yes
+R1415,2024-05-08,North,45-54,Male,High School,Product D,Very Dissatisfied,Passive,6,Maybe
+R1416,2024-05-03,East,45-54,Female,Master's,Product B,Satisfied,Passive,4,No
+R1417,2024-05-30,Central,35-44,Male,Master's,Product C,Very Satisfied,Passive,4,Maybe
+R1418,2024-04-03,West,35-44,Female,Master's,Product C,Very Satisfied,Promoter,6,Yes
+R1419,2024-03-21,Central,55+,Female,High School,Product A,Very Dissatisfied,Promoter,10,Yes
+R1420,2024-01-04,Central,45-54,Female,Master's,Product D,Very Dissatisfied,Passive,7,Yes
+R1421,2024-05-09,South,25-34,Female,High School,Product B,Neutral,Promoter,6,No
+R1422,2024-03-28,West,18-24,Non-binary,Bachelor's,Product A,Dissatisfied,Promoter,7,Yes
+R1423,2024-04-12,North,45-54,Female,Bachelor's,Product A,Dissatisfied,Promoter,8,Maybe
+R1424,2024-03-19,Central,18-24,Female,Bachelor's,Product E,Neutral,Detractor,7,Yes
+R1425,2024-03-07,East,45-54,Female,Bachelor's,Product A,Satisfied,Detractor,10,Maybe
+R1426,2024-01-16,Central,35-44,Male,High School,Product A,Satisfied,Promoter,4,Yes
+R1427,2024-01-12,North,35-44,Male,Bachelor's,Product C,Satisfied,Promoter,7,Yes
+R1428,2024-04-25,North,25-34,Male,High School,Product A,Satisfied,Promoter,4,Yes
+R1429,2024-02-19,West,55+,Female,High School,Product C,Neutral,Promoter,7,No
+R1430,2024-02-21,North,55+,Female,Bachelor's,Product C,Satisfied,Promoter,9,Yes
+R1431,2024-03-06,West,55+,Male,High School,Product B,Satisfied,Promoter,10,Yes
+R1432,2024-03-05,North,45-54,Male,Bachelor's,Product C,Dissatisfied,Promoter,10,Yes
+R1433,2024-03-23,Central,18-24,Male,PhD,Product B,Satisfied,Passive,8,Yes
+R1434,2024-02-20,Central,25-34,Female,PhD,Product C,Satisfied,Detractor,6,No
+R1435,2024-01-03,North,55+,Male,Bachelor's,Product B,Satisfied,Passive,7,Yes
+R1436,2024-02-02,South,35-44,Male,Bachelor's,Product D,Dissatisfied,Detractor,10,Yes
+R1437,2024-03-07,East,25-34,Male,Bachelor's,Product A,Very Satisfied,Detractor,10,Maybe
+R1438,2024-06-08,North,55+,Male,PhD,Product B,Neutral,Promoter,7,Yes
+R1439,2024-04-21,South,55+,Female,Master's,Product D,Satisfied,Detractor,7,Yes
+R1440,2024-02-10,Central,35-44,Male,High School,Product A,Satisfied,Promoter,6,Yes
+R1441,2024-04-13,East,35-44,Male,Master's,Product A,Satisfied,Promoter,8,No
+R1442,2024-06-24,Central,35-44,Female,Bachelor's,Product E,Very Satisfied,Promoter,6,Maybe
+R1443,2024-04-28,North,55+,Male,Bachelor's,Product B,Satisfied,Passive,2,Yes
+R1444,2024-04-08,North,45-54,Male,Bachelor's,Product A,Satisfied,Detractor,5,Maybe
+R1445,2024-04-15,South,55+,Male,Bachelor's,Product C,Very Satisfied,Promoter,8,Yes
+R1446,2024-04-24,North,45-54,Female,High School,Product E,Very Satisfied,Detractor,6,No
+R1447,2024-02-01,Central,55+,Male,High School,Product C,Very Satisfied,Passive,2,Yes
+R1448,2024-04-30,West,55+,Male,Bachelor's,Product D,Very Dissatisfied,Promoter,6,No
+R1449,2024-05-01,North,18-24,Male,PhD,Product A,Neutral,Promoter,7,Yes
+R1450,2024-04-15,West,35-44,Male,Bachelor's,Product A,Very Satisfied,Detractor,3,Yes
+R1451,2024-06-07,East,55+,Female,Bachelor's,Product A,Neutral,Detractor,8,Yes
+R1452,2024-03-12,Central,25-34,Female,PhD,Product A,Satisfied,Passive,7,No
+R1453,2024-01-30,Central,35-44,Male,Bachelor's,Product C,Very Satisfied,Promoter,2,Yes
+R1454,2024-02-14,East,25-34,Male,High School,Product C,Satisfied,Passive,9,Maybe
+R1455,2024-04-24,South,55+,Female,High School,Product A,Satisfied,Passive,9,Yes
+R1456,2024-06-09,South,25-34,Male,PhD,Product B,Very Satisfied,Promoter,2,Maybe
+R1457,2024-05-01,Central,35-44,Male,High School,Product D,Satisfied,Promoter,3,Maybe
+R1458,2024-03-08,West,18-24,Male,Master's,Product D,Dissatisfied,Passive,3,Maybe
+R1459,2024-03-15,North,35-44,Male,Bachelor's,Product A,Very Satisfied,Detractor,2,Yes
+R1460,2024-01-14,Central,55+,Female,Bachelor's,Product C,Very Satisfied,Promoter,10,Maybe
+R1461,2024-01-21,North,45-54,Female,High School,Product A,Neutral,Promoter,8,No
+R1462,2024-04-18,North,25-34,Female,High School,Product A,Dissatisfied,Passive,4,Maybe
+R1463,2024-06-23,South,55+,Female,PhD,Product C,Satisfied,Detractor,9,Yes
+R1464,2024-03-11,East,35-44,Female,High School,Product A,Satisfied,Promoter,8,Yes
+R1465,2024-01-19,South,45-54,Male,PhD,Product C,Very Dissatisfied,Promoter,3,Maybe
+R1466,2024-01-21,North,25-34,Male,High School,Product A,Very Dissatisfied,Passive,10,No
+R1467,2024-03-16,East,25-34,Male,Bachelor's,Product B,Neutral,Promoter,3,Yes
+R1468,2024-04-05,North,45-54,Female,Bachelor's,Product C,Very Satisfied,Passive,4,Yes
+R1469,2024-03-23,East,18-24,Male,Bachelor's,Product A,Very Satisfied,Promoter,4,Yes
+R1470,2024-03-15,North,55+,Female,Master's,Product C,Very Satisfied,Passive,7,Maybe
+R1471,2024-01-17,North,18-24,Female,Bachelor's,Product B,Satisfied,Promoter,6,Yes
+R1472,2024-06-17,East,25-34,Male,Master's,Product B,Very Dissatisfied,Detractor,6,Maybe
+R1473,2024-01-17,North,55+,Female,Master's,Product C,Satisfied,Detractor,6,Yes
+R1474,2024-03-01,East,18-24,Male,Master's,Product C,Very Satisfied,Detractor,5,No
+R1475,2024-06-28,West,55+,Female,Bachelor's,Product B,Dissatisfied,Detractor,4,Maybe
+R1476,2024-06-15,East,45-54,Male,Master's,Product D,Very Satisfied,Promoter,4,Yes
+R1477,2024-06-18,South,25-34,Male,PhD,Product C,Neutral,Promoter,3,No
+R1478,2024-04-19,Central,18-24,Male,PhD,Product D,Very Dissatisfied,Detractor,1,Yes
+R1479,2024-04-17,West,18-24,Male,High School,Product C,Very Satisfied,Promoter,9,Yes
+R1480,2024-04-20,East,25-34,Male,Master's,Product C,Satisfied,Passive,5,Maybe
+R1481,2024-01-18,Central,25-34,Female,Bachelor's,Product B,Satisfied,Detractor,5,No
+R1482,2024-01-02,North,18-24,Male,PhD,Product B,Very Satisfied,Promoter,5,Maybe
+R1483,2024-03-12,South,18-24,Female,Bachelor's,Product B,Dissatisfied,Detractor,1,No
+R1484,2024-04-06,North,18-24,Female,Bachelor's,Product B,Very Satisfied,Passive,1,No
+R1485,2024-01-08,North,45-54,Female,High School,Product A,Neutral,Promoter,1,Yes
+R1486,2024-01-08,South,55+,Female,Master's,Product D,Dissatisfied,Detractor,6,Yes
+R1487,2024-02-29,South,25-34,Male,PhD,Product B,Very Dissatisfied,Detractor,6,Maybe
+R1488,2024-01-31,West,18-24,Female,High School,Product E,Satisfied,Promoter,10,Yes
+R1489,2024-03-31,East,45-54,Female,High School,Product B,Very Satisfied,Promoter,7,Yes
+R1490,2024-06-07,North,45-54,Male,Bachelor's,Product D,Dissatisfied,Passive,9,Yes
+R1491,2024-04-18,North,25-34,Male,Bachelor's,Product B,Very Satisfied,Detractor,6,No
+R1492,2024-05-16,East,18-24,Male,PhD,Product B,Dissatisfied,Passive,5,Yes
+R1493,2024-01-19,North,35-44,Female,High School,Product B,Satisfied,Promoter,1,Maybe
+R1494,2024-03-18,East,18-24,Female,Master's,Product B,Satisfied,Promoter,4,Maybe
+R1495,2024-02-02,East,25-34,Male,Bachelor's,Product C,Neutral,Passive,4,No
+R1496,2024-03-21,Central,25-34,Male,Bachelor's,Product B,Very Satisfied,Promoter,7,Yes
+R1497,2024-03-16,East,25-34,Female,Master's,Product D,Very Satisfied,Passive,2,Maybe
+R1498,2024-06-06,North,55+,Male,Bachelor's,Product A,Very Satisfied,Detractor,7,No
+R1499,2024-06-08,South,25-34,Female,Master's,Product C,Neutral,Detractor,10,Yes
+R1500,2024-05-03,South,45-54,Female,Bachelor's,Product B,Very Dissatisfied,Passive,3,No
+R1501,2024-02-02,North,35-44,Female,High School,Product B,Satisfied,Promoter,2,Maybe
+R1502,2024-03-12,North,45-54,Male,Master's,Product A,Very Satisfied,Passive,5,Yes
+R1503,2024-06-14,Central,18-24,Male,PhD,Product A,Satisfied,Promoter,9,Yes
+R1504,2024-05-23,North,55+,Female,Bachelor's,Product C,Very Satisfied,Passive,8,Yes
+R1505,2024-06-22,North,25-34,Female,Bachelor's,Product C,Very Satisfied,Detractor,4,Maybe
+R1506,2024-05-03,West,35-44,Male,Bachelor's,Product B,Very Satisfied,Detractor,10,Maybe
+R1507,2024-03-10,North,25-34,Male,PhD,Product B,Satisfied,Promoter,10,No
+R1508,2024-06-22,West,18-24,Male,Bachelor's,Product E,Neutral,Detractor,8,Maybe
+R1509,2024-05-16,Central,45-54,Female,Master's,Product B,Very Satisfied,Passive,10,No
+R1510,2024-02-16,West,45-54,Male,Master's,Product C,Very Satisfied,Promoter,10,Yes
+R1511,2024-04-07,West,35-44,Non-binary,Master's,Product E,Satisfied,Passive,10,Yes
+R1512,2024-03-01,Central,25-34,Female,Bachelor's,Product B,Very Satisfied,Promoter,7,Yes
+R1513,2024-01-03,North,45-54,Female,Master's,Product E,Satisfied,Passive,4,Yes
+R1514,2024-02-28,East,25-34,Female,Bachelor's,Product C,Very Satisfied,Promoter,4,Maybe
+R1515,2024-05-17,Central,35-44,Male,Bachelor's,Product C,Very Satisfied,Detractor,5,Maybe
+R1516,2024-02-10,East,55+,Male,Bachelor's,Product A,Neutral,Passive,3,Yes
+R1517,2024-02-02,North,25-34,Male,Bachelor's,Product B,Dissatisfied,Passive,3,Yes
+R1518,2024-06-27,South,45-54,Male,High School,Product B,Dissatisfied,Promoter,3,Yes
+R1519,2024-01-04,East,18-24,Female,Bachelor's,Product B,Satisfied,Passive,4,No
+R1520,2024-03-05,East,25-34,Male,Master's,Product A,Satisfied,Passive,9,No
+R1521,2024-04-30,North,25-34,Female,Bachelor's,Product B,Very Satisfied,Detractor,8,Maybe
+R1522,2024-06-04,South,45-54,Female,Master's,Product C,Dissatisfied,Promoter,7,Maybe
+R1523,2024-03-02,North,18-24,Female,Master's,Product E,Satisfied,Detractor,10,Yes
+R1524,2024-03-19,East,25-34,Male,Bachelor's,Product C,Satisfied,Promoter,9,Yes
+R1525,2024-04-09,North,35-44,Female,Master's,Product B,Dissatisfied,Promoter,10,Yes
+R1526,2024-05-30,West,25-34,Male,Bachelor's,Product A,Very Satisfied,Promoter,7,Yes
+R1527,2024-02-06,North,55+,Male,High School,Product A,Neutral,Detractor,6,No
+R1528,2024-04-24,Central,45-54,Male,Bachelor's,Product E,Dissatisfied,Passive,1,No
+R1529,2024-01-17,North,45-54,Female,Master's,Product A,Very Satisfied,Promoter,1,Yes
+R1530,2024-04-11,South,55+,Male,High School,Product B,Very Satisfied,Promoter,3,Yes
+R1531,2024-01-13,South,35-44,Male,Master's,Product D,Neutral,Passive,5,No
+R1532,2024-04-22,South,55+,Male,Master's,Product B,Very Satisfied,Passive,9,Yes
+R1533,2024-02-21,Central,55+,Female,Master's,Product C,Very Satisfied,Promoter,10,Yes
+R1534,2024-06-01,West,35-44,Male,High School,Product D,Satisfied,Promoter,10,Maybe
+R1535,2024-03-19,Central,55+,Male,High School,Product E,Very Satisfied,Promoter,4,Maybe
+R1536,2024-01-28,Central,25-34,Male,Bachelor's,Product D,Dissatisfied,Promoter,5,Maybe
+R1537,2024-01-14,West,35-44,Male,PhD,Product D,Very Dissatisfied,Passive,10,Yes
+R1538,2024-05-12,Central,18-24,Male,Bachelor's,Product E,Very Dissatisfied,Promoter,6,Yes
+R1539,2024-03-21,Central,35-44,Male,Bachelor's,Product E,Dissatisfied,Promoter,4,Maybe
+R1540,2024-02-04,West,25-34,Female,Bachelor's,Product E,Very Satisfied,Detractor,9,Yes
+R1541,2024-02-19,North,45-54,Female,High School,Product A,Satisfied,Detractor,4,Yes
+R1542,2024-02-12,South,18-24,Male,Bachelor's,Product B,Very Satisfied,Passive,10,No
+R1543,2024-03-29,South,18-24,Male,Master's,Product A,Satisfied,Passive,7,Yes
+R1544,2024-01-22,East,35-44,Female,PhD,Product C,Satisfied,Detractor,4,Maybe
+R1545,2024-06-19,West,45-54,Female,Master's,Product E,Very Dissatisfied,Passive,7,Yes
+R1546,2024-04-02,West,45-54,Male,Master's,Product C,Very Satisfied,Detractor,5,Yes
+R1547,2024-05-29,North,25-34,Female,Master's,Product C,Very Satisfied,Passive,4,Maybe
+R1548,2024-04-17,Central,45-54,Male,High School,Product B,Very Dissatisfied,Promoter,10,Yes
+R1549,2024-01-23,North,55+,Male,Bachelor's,Product A,Satisfied,Passive,5,Yes
+R1550,2024-01-22,West,18-24,Male,High School,Product A,Very Satisfied,Detractor,9,Yes
+R1551,2024-03-26,West,55+,Female,Bachelor's,Product A,Satisfied,Promoter,8,Maybe
+R1552,2024-05-05,Central,35-44,Female,Bachelor's,Product B,Dissatisfied,Detractor,10,Yes
+R1553,2024-01-11,West,45-54,Male,Bachelor's,Product E,Very Satisfied,Passive,6,Maybe
+R1554,2024-06-05,East,18-24,Non-binary,High School,Product C,Very Satisfied,Promoter,6,Yes
+R1555,2024-06-14,West,45-54,Male,Master's,Product B,Neutral,Promoter,5,No
+R1556,2024-03-07,North,18-24,Female,PhD,Product D,Satisfied,Passive,4,Maybe
+R1557,2024-02-18,East,25-34,Male,Master's,Product C,Very Dissatisfied,Promoter,7,Yes
+R1558,2024-01-09,West,55+,Male,High School,Product A,Dissatisfied,Promoter,4,Yes
+R1559,2024-03-04,Central,25-34,Male,Master's,Product A,Dissatisfied,Detractor,7,Yes
+R1560,2024-02-05,West,18-24,Female,Bachelor's,Product E,Satisfied,Promoter,4,Yes
+R1561,2024-06-30,North,55+,Female,Bachelor's,Product A,Neutral,Passive,2,Maybe
+R1562,2024-05-31,East,45-54,Female,High School,Product C,Dissatisfied,Passive,2,Yes
+R1563,2024-05-13,South,45-54,Male,Bachelor's,Product D,Very Satisfied,Detractor,3,No
+R1564,2024-02-17,West,45-54,Female,Bachelor's,Product E,Very Satisfied,Promoter,7,Yes
+R1565,2024-03-21,Central,45-54,Female,High School,Product D,Very Satisfied,Detractor,2,Yes
+R1566,2024-05-02,West,45-54,Female,Master's,Product C,Neutral,Detractor,7,No
+R1567,2024-02-25,East,45-54,Male,Bachelor's,Product A,Satisfied,Detractor,3,Yes
+R1568,2024-03-02,West,25-34,Male,Bachelor's,Product E,Neutral,Promoter,1,No
+R1569,2024-06-24,South,45-54,Male,Master's,Product A,Neutral,Passive,9,Yes
+R1570,2024-01-27,East,55+,Male,PhD,Product E,Dissatisfied,Promoter,8,No
+R1571,2024-01-23,East,45-54,Male,High School,Product C,Very Satisfied,Passive,4,Yes
+R1572,2024-05-22,East,18-24,Female,High School,Product C,Satisfied,Passive,10,Yes
+R1573,2024-01-10,East,35-44,Male,Bachelor's,Product C,Neutral,Detractor,9,Yes
+R1574,2024-03-04,Central,45-54,Female,Bachelor's,Product B,Satisfied,Passive,3,Yes
+R1575,2024-06-16,Central,25-34,Female,Master's,Product C,Neutral,Passive,8,Yes
+R1576,2024-01-26,Central,55+,Male,High School,Product B,Satisfied,Promoter,9,No
+R1577,2024-03-26,North,55+,Female,Master's,Product A,Neutral,Detractor,6,No
+R1578,2024-03-13,West,18-24,Female,Bachelor's,Product D,Satisfied,Passive,7,Maybe
+R1579,2024-04-23,Central,55+,Male,Bachelor's,Product B,Very Satisfied,Passive,2,Yes
+R1580,2024-02-27,East,25-34,Female,Bachelor's,Product C,Very Satisfied,Passive,5,Yes
+R1581,2024-01-04,West,55+,Male,High School,Product A,Satisfied,Promoter,5,Yes
+R1582,2024-05-26,Central,45-54,Female,Master's,Product D,Very Satisfied,Passive,6,No
+R1583,2024-05-23,East,45-54,Male,Master's,Product C,Neutral,Detractor,1,Maybe
+R1584,2024-05-26,South,35-44,Male,Master's,Product D,Satisfied,Passive,7,Maybe
+R1585,2024-03-14,East,45-54,Male,Bachelor's,Product D,Neutral,Passive,5,Maybe
+R1586,2024-04-07,South,45-54,Female,PhD,Product A,Satisfied,Detractor,6,Maybe
+R1587,2024-04-22,East,25-34,Female,Master's,Product C,Neutral,Promoter,10,Yes
+R1588,2024-01-07,East,18-24,Male,High School,Product D,Very Dissatisfied,Detractor,5,Maybe
+R1589,2024-02-01,East,25-34,Male,Bachelor's,Product D,Dissatisfied,Promoter,5,No
+R1590,2024-02-14,Central,35-44,Female,High School,Product D,Satisfied,Passive,2,Yes
+R1591,2024-05-30,North,25-34,Female,Master's,Product D,Very Satisfied,Passive,7,No
+R1592,2024-04-30,Central,45-54,Male,Bachelor's,Product E,Satisfied,Promoter,8,Maybe
+R1593,2024-05-16,Central,35-44,Male,Master's,Product D,Neutral,Detractor,10,Yes
+R1594,2024-06-04,East,25-34,Male,Master's,Product D,Very Dissatisfied,Passive,4,Yes
+R1595,2024-01-28,Central,35-44,Female,Bachelor's,Product D,Very Satisfied,Passive,2,Yes
+R1596,2024-02-21,Central,45-54,Female,Bachelor's,Product C,Satisfied,Detractor,4,Maybe
+R1597,2024-04-19,North,35-44,Female,High School,Product A,Satisfied,Detractor,1,Yes
+R1598,2024-04-13,South,35-44,Non-binary,Bachelor's,Product A,Neutral,Promoter,9,Yes
+R1599,2024-05-14,North,25-34,Male,Bachelor's,Product B,Very Dissatisfied,Promoter,7,Maybe
+R1600,2024-01-04,South,35-44,Male,Bachelor's,Product D,Very Satisfied,Detractor,2,Maybe
+R1601,2024-01-24,West,45-54,Male,PhD,Product C,Satisfied,Promoter,6,Yes
+R1602,2024-02-28,North,25-34,Female,High School,Product B,Satisfied,Passive,5,Yes
+R1603,2024-02-16,West,45-54,Female,Master's,Product B,Neutral,Passive,5,Yes
+R1604,2024-04-29,West,55+,Male,Bachelor's,Product E,Satisfied,Detractor,1,Yes
+R1605,2024-06-23,West,35-44,Female,Bachelor's,Product A,Dissatisfied,Promoter,9,Maybe
+R1606,2024-02-04,Central,25-34,Male,Bachelor's,Product B,Satisfied,Promoter,1,Yes
+R1607,2024-01-21,South,35-44,Male,Master's,Product C,Satisfied,Promoter,9,Yes
+R1608,2024-04-21,Central,55+,Male,Bachelor's,Product A,Neutral,Passive,4,No
+R1609,2024-04-19,North,18-24,Female,Bachelor's,Product D,Satisfied,Passive,6,Yes
+R1610,2024-02-02,South,25-34,Male,Master's,Product E,Very Satisfied,Promoter,1,Maybe
+R1611,2024-02-24,Central,45-54,Female,Bachelor's,Product E,Satisfied,Promoter,1,Yes
+R1612,2024-05-17,South,45-54,Female,Bachelor's,Product A,Very Satisfied,Promoter,3,No
+R1613,2024-05-09,North,35-44,Male,PhD,Product D,Satisfied,Promoter,9,No
+R1614,2024-05-10,West,25-34,Male,Bachelor's,Product C,Very Satisfied,Passive,8,Yes
+R1615,2024-05-04,North,25-34,Female,High School,Product B,Satisfied,Detractor,10,No
+R1616,2024-06-26,Central,35-44,Male,Master's,Product D,Neutral,Promoter,2,Yes
+R1617,2024-04-03,Central,45-54,Male,High School,Product D,Very Satisfied,Promoter,8,Maybe
+R1618,2024-06-27,North,35-44,Female,Master's,Product B,Neutral,Promoter,7,Maybe
+R1619,2024-01-09,South,35-44,Male,Bachelor's,Product A,Satisfied,Passive,3,Maybe
+R1620,2024-06-13,North,25-34,Male,Bachelor's,Product B,Very Satisfied,Passive,5,Yes
+R1621,2024-01-29,Central,45-54,Female,Bachelor's,Product B,Very Satisfied,Passive,7,Yes
+R1622,2024-06-03,North,18-24,Female,PhD,Product E,Satisfied,Passive,9,Yes
+R1623,2024-01-31,South,18-24,Male,Bachelor's,Product E,Satisfied,Detractor,7,Maybe
+R1624,2024-01-03,East,25-34,Female,Bachelor's,Product A,Satisfied,Promoter,4,Yes
+R1625,2024-04-02,Central,25-34,Female,Bachelor's,Product C,Very Satisfied,Detractor,6,Yes
+R1626,2024-01-09,North,35-44,Male,PhD,Product A,Neutral,Promoter,4,Maybe
+R1627,2024-06-24,East,45-54,Female,Master's,Product A,Satisfied,Promoter,8,Yes
+R1628,2024-06-19,West,35-44,Female,Bachelor's,Product A,Satisfied,Passive,10,Maybe
+R1629,2024-04-03,South,18-24,Non-binary,Bachelor's,Product B,Very Satisfied,Passive,3,Yes
+R1630,2024-06-21,Central,35-44,Female,Master's,Product A,Very Satisfied,Passive,2,Yes
+R1631,2024-03-27,Central,18-24,Male,Master's,Product A,Satisfied,Promoter,1,Maybe
+R1632,2024-02-21,South,45-54,Male,Master's,Product A,Satisfied,Detractor,5,Yes
+R1633,2024-05-10,East,55+,Male,High School,Product C,Satisfied,Passive,5,Maybe
+R1634,2024-06-07,West,35-44,Male,High School,Product C,Very Dissatisfied,Passive,5,Yes
+R1635,2024-02-10,West,55+,Female,Master's,Product D,Neutral,Promoter,9,Maybe
+R1636,2024-01-05,North,18-24,Female,Bachelor's,Product E,Very Satisfied,Passive,9,Maybe
+R1637,2024-06-21,West,55+,Female,Bachelor's,Product A,Very Satisfied,Passive,4,Yes
+R1638,2024-03-20,North,25-34,Female,Master's,Product A,Satisfied,Promoter,9,Yes
+R1639,2024-06-21,West,18-24,Male,High School,Product D,Very Dissatisfied,Detractor,4,Yes
+R1640,2024-03-06,Central,18-24,Female,Master's,Product C,Satisfied,Promoter,7,Yes
+R1641,2024-02-11,South,25-34,Male,Master's,Product C,Very Satisfied,Promoter,7,Yes
+R1642,2024-01-07,North,25-34,Female,Bachelor's,Product D,Satisfied,Passive,7,Yes
+R1643,2024-06-23,North,25-34,Female,PhD,Product C,Dissatisfied,Detractor,8,Yes
+R1644,2024-03-08,West,18-24,Male,Bachelor's,Product E,Satisfied,Promoter,1,Yes
+R1645,2024-03-25,East,25-34,Male,High School,Product B,Neutral,Promoter,1,Yes
+R1646,2024-06-24,East,45-54,Female,High School,Product C,Very Satisfied,Passive,7,Yes
+R1647,2024-06-03,North,55+,Male,Master's,Product A,Dissatisfied,Promoter,6,Yes
+R1648,2024-05-07,South,35-44,Female,High School,Product A,Satisfied,Promoter,8,Maybe
+R1649,2024-06-01,East,18-24,Male,High School,Product B,Dissatisfied,Passive,3,Maybe
+R1650,2024-02-05,West,25-34,Female,Bachelor's,Product A,Satisfied,Detractor,1,Maybe
+R1651,2024-06-03,West,35-44,Male,Bachelor's,Product B,Neutral,Passive,10,Yes
+R1652,2024-06-05,West,45-54,Male,PhD,Product C,Dissatisfied,Passive,8,Maybe
+R1653,2024-04-01,Central,35-44,Female,High School,Product C,Satisfied,Passive,3,Yes
+R1654,2024-06-24,West,45-54,Male,Master's,Product C,Neutral,Promoter,10,No
+R1655,2024-05-30,East,55+,Male,Bachelor's,Product A,Satisfied,Promoter,8,Yes
+R1656,2024-04-14,East,35-44,Male,High School,Product A,Neutral,Promoter,2,Maybe
+R1657,2024-06-24,East,45-54,Male,High School,Product B,Satisfied,Promoter,7,Yes
+R1658,2024-01-30,West,18-24,Male,Bachelor's,Product A,Satisfied,Promoter,8,No
+R1659,2024-06-13,South,35-44,Female,High School,Product E,Very Satisfied,Detractor,8,No
+R1660,2024-01-28,Central,25-34,Female,Bachelor's,Product D,Very Dissatisfied,Passive,2,Maybe
+R1661,2024-05-25,South,55+,Female,Bachelor's,Product E,Very Satisfied,Promoter,8,Yes
+R1662,2024-06-28,South,18-24,Female,Bachelor's,Product B,Dissatisfied,Promoter,5,Yes
+R1663,2024-05-16,West,25-34,Female,Bachelor's,Product C,Dissatisfied,Passive,10,Maybe
+R1664,2024-01-21,East,45-54,Female,Master's,Product D,Dissatisfied,Promoter,10,No
+R1665,2024-02-10,North,35-44,Female,High School,Product C,Neutral,Promoter,3,Maybe
+R1666,2024-05-04,East,25-34,Male,Bachelor's,Product C,Neutral,Detractor,1,Maybe
+R1667,2024-01-19,East,35-44,Male,Bachelor's,Product D,Very Satisfied,Detractor,8,Maybe
+R1668,2024-03-17,East,25-34,Female,High School,Product C,Satisfied,Passive,5,No
+R1669,2024-03-16,North,45-54,Female,Master's,Product B,Very Satisfied,Promoter,8,Yes
+R1670,2024-05-15,North,18-24,Male,Bachelor's,Product D,Very Dissatisfied,Passive,6,Maybe
+R1671,2024-04-16,North,35-44,Male,High School,Product C,Satisfied,Detractor,8,Yes
+R1672,2024-05-21,East,18-24,Male,Bachelor's,Product C,Very Satisfied,Promoter,1,Maybe
+R1673,2024-05-01,West,55+,Male,PhD,Product C,Satisfied,Passive,10,No
+R1674,2024-01-22,East,18-24,Male,High School,Product C,Satisfied,Passive,9,Yes
+R1675,2024-01-10,West,25-34,Male,High School,Product D,Satisfied,Passive,10,Yes
+R1676,2024-01-28,North,45-54,Female,Master's,Product A,Neutral,Passive,7,Yes
+R1677,2024-03-14,Central,35-44,Female,Bachelor's,Product E,Very Satisfied,Promoter,7,Maybe
+R1678,2024-06-20,South,18-24,Male,PhD,Product D,Very Satisfied,Passive,1,Yes
+R1679,2024-02-07,Central,25-34,Female,Bachelor's,Product A,Satisfied,Detractor,5,Yes
+R1680,2024-04-29,East,18-24,Male,Master's,Product E,Very Dissatisfied,Detractor,5,Yes
+R1681,2024-06-01,East,18-24,Female,Master's,Product D,Satisfied,Detractor,7,Yes
+R1682,2024-05-18,South,18-24,Female,Bachelor's,Product A,Satisfied,Passive,8,Yes
+R1683,2024-01-02,South,55+,Female,Master's,Product A,Dissatisfied,Promoter,3,Yes
+R1684,2024-05-26,Central,55+,Female,High School,Product B,Dissatisfied,Promoter,9,Yes
+R1685,2024-01-07,West,18-24,Female,Master's,Product B,Dissatisfied,Promoter,2,Yes
+R1686,2024-03-22,North,55+,Female,Master's,Product A,Satisfied,Passive,10,Maybe
+R1687,2024-04-27,West,55+,Female,Bachelor's,Product C,Very Satisfied,Promoter,6,Yes
+R1688,2024-02-15,East,45-54,Male,Bachelor's,Product C,Very Dissatisfied,Passive,6,No
+R1689,2024-02-24,South,25-34,Male,Bachelor's,Product E,Very Satisfied,Passive,3,Yes
+R1690,2024-05-15,West,25-34,Non-binary,Master's,Product E,Very Dissatisfied,Passive,2,Maybe
+R1691,2024-04-13,East,35-44,Male,PhD,Product C,Very Satisfied,Passive,6,Maybe
+R1692,2024-04-22,South,45-54,Female,High School,Product B,Very Satisfied,Passive,2,Yes
+R1693,2024-05-12,East,25-34,Female,Master's,Product A,Satisfied,Promoter,7,Yes
+R1694,2024-06-10,North,18-24,Non-binary,High School,Product B,Very Satisfied,Promoter,1,Maybe
+R1695,2024-02-17,North,25-34,Female,High School,Product C,Satisfied,Passive,7,Yes
+R1696,2024-04-20,Central,18-24,Female,Master's,Product C,Very Satisfied,Detractor,2,Yes
+R1697,2024-02-23,North,35-44,Female,Bachelor's,Product B,Very Dissatisfied,Passive,5,Maybe
+R1698,2024-03-16,West,45-54,Female,Bachelor's,Product E,Satisfied,Detractor,8,Yes
+R1699,2024-01-28,South,18-24,Male,Master's,Product E,Satisfied,Passive,10,Maybe
+R1700,2024-05-22,North,55+,Male,Bachelor's,Product E,Neutral,Passive,6,Yes
+R1701,2024-04-25,West,35-44,Male,Bachelor's,Product C,Very Satisfied,Detractor,1,Yes
+R1702,2024-06-10,Central,45-54,Female,Bachelor's,Product B,Very Satisfied,Passive,5,Yes
+R1703,2024-04-09,West,55+,Female,Bachelor's,Product B,Satisfied,Promoter,8,Maybe
+R1704,2024-06-09,Central,45-54,Male,PhD,Product C,Neutral,Detractor,6,Yes
+R1705,2024-03-29,South,18-24,Male,High School,Product B,Neutral,Passive,8,No
+R1706,2024-01-27,East,18-24,Female,Bachelor's,Product A,Satisfied,Detractor,1,Yes
+R1707,2024-01-27,Central,18-24,Female,Bachelor's,Product C,Satisfied,Promoter,6,Maybe
+R1708,2024-05-10,West,35-44,Male,High School,Product C,Very Satisfied,Passive,2,No
+R1709,2024-06-17,North,55+,Male,Bachelor's,Product A,Satisfied,Passive,3,Yes
+R1710,2024-05-13,West,45-54,Male,High School,Product B,Neutral,Passive,4,Yes
+R1711,2024-04-29,North,55+,Female,Bachelor's,Product A,Dissatisfied,Passive,9,Yes
+R1712,2024-03-04,South,35-44,Female,Master's,Product A,Satisfied,Promoter,10,Yes
+R1713,2024-03-24,North,25-34,Male,High School,Product B,Satisfied,Passive,4,Yes
+R1714,2024-02-28,South,25-34,Female,Bachelor's,Product B,Dissatisfied,Promoter,7,Yes
+R1715,2024-02-03,West,45-54,Female,High School,Product A,Satisfied,Detractor,5,Yes
+R1716,2024-01-23,West,55+,Female,Bachelor's,Product E,Very Satisfied,Promoter,1,Yes
+R1717,2024-06-03,East,35-44,Male,Master's,Product A,Satisfied,Promoter,3,Yes
+R1718,2024-04-20,East,25-34,Male,Master's,Product D,Satisfied,Passive,3,Yes
+R1719,2024-01-26,Central,25-34,Male,Bachelor's,Product A,Very Satisfied,Promoter,6,Yes
+R1720,2024-06-22,North,18-24,Female,Bachelor's,Product D,Dissatisfied,Promoter,9,Yes
+R1721,2024-02-05,South,45-54,Male,High School,Product A,Neutral,Promoter,5,No
+R1722,2024-04-20,East,55+,Female,Master's,Product A,Satisfied,Detractor,8,Yes
+R1723,2024-02-20,North,25-34,Female,Bachelor's,Product A,Very Dissatisfied,Promoter,4,No
+R1724,2024-02-23,Central,18-24,Male,Master's,Product C,Very Satisfied,Detractor,9,No
+R1725,2024-03-13,North,55+,Female,Master's,Product B,Neutral,Detractor,5,Yes
+R1726,2024-01-23,North,45-54,Male,Master's,Product B,Very Dissatisfied,Promoter,1,No
+R1727,2024-02-03,West,55+,Male,Master's,Product E,Very Dissatisfied,Promoter,8,Yes
+R1728,2024-02-06,Central,45-54,Female,High School,Product C,Dissatisfied,Promoter,5,Yes
+R1729,2024-03-20,South,25-34,Male,Bachelor's,Product B,Satisfied,Promoter,4,Maybe
+R1730,2024-02-14,North,25-34,Female,Master's,Product B,Dissatisfied,Promoter,1,Yes
+R1731,2024-03-16,Central,18-24,Male,PhD,Product B,Very Satisfied,Promoter,10,Yes
+R1732,2024-06-17,Central,35-44,Female,Master's,Product E,Dissatisfied,Passive,2,Maybe
+R1733,2024-05-18,North,35-44,Female,Bachelor's,Product A,Very Satisfied,Detractor,9,No
+R1734,2024-06-13,West,25-34,Female,Master's,Product D,Very Satisfied,Promoter,10,Yes
+R1735,2024-05-31,North,55+,Male,Master's,Product A,Satisfied,Detractor,5,Yes
+R1736,2024-06-09,East,35-44,Male,PhD,Product E,Very Satisfied,Promoter,10,Yes
+R1737,2024-01-24,East,25-34,Male,Bachelor's,Product B,Dissatisfied,Passive,7,Maybe
+R1738,2024-04-25,Central,35-44,Male,Bachelor's,Product C,Satisfied,Detractor,7,Yes
+R1739,2024-03-13,North,35-44,Female,Bachelor's,Product A,Neutral,Promoter,2,No
+R1740,2024-05-22,West,55+,Female,High School,Product C,Satisfied,Detractor,9,Yes
+R1741,2024-05-19,South,45-54,Male,High School,Product A,Satisfied,Detractor,6,Yes
+R1742,2024-05-13,North,35-44,Female,Bachelor's,Product D,Very Dissatisfied,Promoter,2,Yes
+R1743,2024-06-14,South,25-34,Female,Bachelor's,Product B,Neutral,Detractor,8,No
+R1744,2024-02-09,East,45-54,Male,Bachelor's,Product D,Dissatisfied,Passive,5,Yes
+R1745,2024-04-26,East,45-54,Male,Bachelor's,Product A,Satisfied,Detractor,8,Yes
+R1746,2024-06-14,West,35-44,Male,Bachelor's,Product C,Very Satisfied,Passive,9,No
+R1747,2024-05-16,South,25-34,Male,Bachelor's,Product A,Very Dissatisfied,Passive,10,No
+R1748,2024-05-26,South,25-34,Female,Bachelor's,Product C,Satisfied,Promoter,1,Maybe
+R1749,2024-06-15,Central,35-44,Non-binary,Master's,Product A,Dissatisfied,Promoter,4,Yes
+R1750,2024-04-23,East,55+,Male,Bachelor's,Product B,Satisfied,Detractor,2,Yes
+R1751,2024-06-07,North,55+,Female,Bachelor's,Product A,Neutral,Promoter,8,Maybe
+R1752,2024-05-17,West,35-44,Male,Bachelor's,Product B,Very Satisfied,Passive,6,Yes
+R1753,2024-03-10,North,18-24,Female,Bachelor's,Product B,Satisfied,Promoter,4,Maybe
+R1754,2024-06-25,North,35-44,Male,PhD,Product B,Neutral,Detractor,1,Maybe
+R1755,2024-04-02,North,35-44,Female,Bachelor's,Product B,Neutral,Promoter,3,Maybe
+R1756,2024-02-18,West,45-54,Male,High School,Product A,Neutral,Passive,5,Yes
+R1757,2024-05-28,Central,45-54,Male,Master's,Product A,Neutral,Promoter,3,Maybe
+R1758,2024-03-20,Central,35-44,Female,Bachelor's,Product A,Very Satisfied,Detractor,4,No
+R1759,2024-03-30,North,55+,Male,Master's,Product A,Satisfied,Passive,4,Yes
+R1760,2024-01-21,Central,18-24,Female,High School,Product E,Very Satisfied,Passive,1,Maybe
+R1761,2024-05-05,North,18-24,Male,Master's,Product B,Satisfied,Promoter,2,Maybe
+R1762,2024-02-12,South,18-24,Male,Bachelor's,Product A,Satisfied,Passive,8,Yes
+R1763,2024-06-06,East,25-34,Male,PhD,Product C,Very Satisfied,Promoter,5,Yes
+R1764,2024-04-19,North,45-54,Female,Bachelor's,Product B,Neutral,Promoter,4,Yes
+R1765,2024-05-01,West,25-34,Female,High School,Product C,Neutral,Promoter,9,Maybe
+R1766,2024-03-08,North,45-54,Female,Bachelor's,Product A,Satisfied,Promoter,2,No
+R1767,2024-06-26,North,45-54,Male,PhD,Product C,Satisfied,Promoter,10,No
+R1768,2024-06-01,South,55+,Male,Master's,Product D,Satisfied,Promoter,4,Maybe
+R1769,2024-02-12,West,45-54,Male,High School,Product D,Very Satisfied,Detractor,8,Yes
+R1770,2024-05-22,East,25-34,Male,Master's,Product A,Satisfied,Promoter,2,Yes
+R1771,2024-05-02,South,25-34,Female,High School,Product E,Neutral,Detractor,3,Yes
+R1772,2024-02-27,West,25-34,Female,Master's,Product D,Very Satisfied,Passive,1,Yes
+R1773,2024-04-27,East,18-24,Male,Bachelor's,Product E,Satisfied,Passive,6,Yes
+R1774,2024-03-15,Central,45-54,Female,Bachelor's,Product C,Neutral,Passive,5,Maybe
+R1775,2024-06-11,West,25-34,Male,Bachelor's,Product E,Satisfied,Passive,3,Yes
+R1776,2024-05-08,Central,45-54,Female,Bachelor's,Product B,Satisfied,Detractor,4,Yes
+R1777,2024-03-05,East,25-34,Male,Bachelor's,Product C,Satisfied,Passive,6,Maybe
+R1778,2024-02-16,East,45-54,Male,Master's,Product E,Very Dissatisfied,Promoter,10,Maybe
+R1779,2024-05-14,North,18-24,Male,Bachelor's,Product B,Neutral,Passive,7,Yes
+R1780,2024-04-23,North,55+,Female,High School,Product B,Satisfied,Passive,4,Yes
+R1781,2024-04-24,North,55+,Male,Bachelor's,Product D,Very Dissatisfied,Detractor,4,No
+R1782,2024-02-21,South,35-44,Male,Bachelor's,Product A,Satisfied,Promoter,9,No
+R1783,2024-03-09,South,18-24,Male,Master's,Product E,Very Satisfied,Passive,5,Yes
+R1784,2024-03-10,East,25-34,Male,Bachelor's,Product B,Dissatisfied,Detractor,10,Yes
+R1785,2024-02-10,North,45-54,Non-binary,PhD,Product D,Neutral,Promoter,1,No
+R1786,2024-06-21,Central,55+,Male,Bachelor's,Product B,Satisfied,Promoter,4,Yes
+R1787,2024-05-27,South,25-34,Female,Bachelor's,Product A,Neutral,Passive,6,Yes
+R1788,2024-03-26,Central,35-44,Female,Bachelor's,Product D,Dissatisfied,Detractor,1,Maybe
+R1789,2024-03-03,North,45-54,Female,High School,Product A,Satisfied,Promoter,10,Maybe
+R1790,2024-04-01,East,45-54,Male,PhD,Product D,Neutral,Promoter,1,No
+R1791,2024-04-25,West,45-54,Male,Master's,Product B,Satisfied,Promoter,10,Yes
+R1792,2024-06-27,East,45-54,Male,PhD,Product A,Neutral,Passive,8,Maybe
+R1793,2024-06-17,West,18-24,Female,Bachelor's,Product B,Dissatisfied,Passive,10,Yes
+R1794,2024-06-12,West,18-24,Male,High School,Product A,Very Dissatisfied,Detractor,4,Yes
+R1795,2024-04-22,North,35-44,Female,Bachelor's,Product C,Satisfied,Passive,3,Yes
+R1796,2024-06-03,Central,35-44,Female,Bachelor's,Product C,Very Satisfied,Promoter,5,Yes
+R1797,2024-05-25,West,35-44,Non-binary,PhD,Product A,Dissatisfied,Passive,1,No
+R1798,2024-04-26,East,55+,Male,Master's,Product A,Dissatisfied,Passive,2,Yes
+R1799,2024-06-02,East,25-34,Male,Bachelor's,Product A,Satisfied,Promoter,7,Yes
+R1800,2024-04-10,Central,25-34,Female,Bachelor's,Product C,Satisfied,Detractor,1,Yes
+R1801,2024-06-22,Central,45-54,Female,Master's,Product A,Very Satisfied,Passive,9,Yes
+R1802,2024-04-14,West,55+,Female,Bachelor's,Product B,Satisfied,Promoter,7,Yes
+R1803,2024-05-24,Central,45-54,Female,Bachelor's,Product C,Dissatisfied,Promoter,1,Yes
+R1804,2024-01-16,South,55+,Male,Master's,Product A,Satisfied,Passive,3,Yes
+R1805,2024-02-13,South,25-34,Male,High School,Product B,Dissatisfied,Detractor,3,Yes
+R1806,2024-05-06,Central,18-24,Male,High School,Product D,Very Satisfied,Promoter,1,Yes
+R1807,2024-01-29,East,55+,Female,High School,Product D,Very Satisfied,Detractor,10,Yes
+R1808,2024-04-04,East,18-24,Male,Bachelor's,Product E,Very Dissatisfied,Promoter,1,Maybe
+R1809,2024-01-07,North,18-24,Male,PhD,Product C,Dissatisfied,Detractor,3,No
+R1810,2024-04-07,North,18-24,Female,High School,Product E,Satisfied,Promoter,4,No
+R1811,2024-01-31,South,18-24,Female,Bachelor's,Product B,Very Satisfied,Passive,7,No
+R1812,2024-04-28,Central,18-24,Female,Master's,Product E,Dissatisfied,Detractor,6,No
+R1813,2024-06-10,West,25-34,Male,Bachelor's,Product C,Dissatisfied,Detractor,4,Yes
+R1814,2024-06-04,Central,18-24,Male,Master's,Product B,Neutral,Promoter,10,No
+R1815,2024-06-02,West,55+,Female,PhD,Product D,Satisfied,Promoter,10,Yes
+R1816,2024-06-20,South,18-24,Male,Bachelor's,Product C,Satisfied,Passive,3,No
+R1817,2024-05-12,South,18-24,Female,Bachelor's,Product A,Very Satisfied,Promoter,1,Maybe
+R1818,2024-01-18,Central,45-54,Female,Master's,Product A,Dissatisfied,Detractor,4,Maybe
+R1819,2024-04-12,South,55+,Male,Master's,Product A,Dissatisfied,Passive,3,No
+R1820,2024-02-13,West,18-24,Female,Bachelor's,Product B,Satisfied,Passive,10,Maybe
+R1821,2024-05-14,East,55+,Male,Master's,Product B,Dissatisfied,Detractor,9,Maybe
+R1822,2024-04-13,South,35-44,Female,Bachelor's,Product C,Satisfied,Passive,4,No
+R1823,2024-05-05,Central,35-44,Female,Master's,Product C,Satisfied,Promoter,9,No
+R1824,2024-03-24,West,18-24,Male,Bachelor's,Product E,Neutral,Passive,9,Maybe
+R1825,2024-04-10,East,25-34,Non-binary,Master's,Product D,Satisfied,Promoter,10,Yes
+R1826,2024-06-09,East,25-34,Female,Bachelor's,Product E,Dissatisfied,Detractor,6,Maybe
+R1827,2024-02-07,East,55+,Male,PhD,Product B,Very Satisfied,Passive,1,Maybe
+R1828,2024-03-12,East,18-24,Male,Master's,Product A,Neutral,Promoter,6,No
+R1829,2024-05-23,West,18-24,Male,PhD,Product E,Satisfied,Passive,2,Maybe
+R1830,2024-03-12,Central,35-44,Male,Bachelor's,Product C,Very Satisfied,Promoter,9,Maybe
+R1831,2024-05-18,North,25-34,Male,Bachelor's,Product C,Neutral,Promoter,1,Yes
+R1832,2024-06-02,South,25-34,Male,High School,Product D,Neutral,Detractor,4,Yes
+R1833,2024-02-09,Central,18-24,Female,High School,Product D,Neutral,Passive,9,No
+R1834,2024-01-01,East,55+,Female,Master's,Product B,Neutral,Passive,8,Yes
+R1835,2024-05-19,West,25-34,Female,Bachelor's,Product B,Satisfied,Detractor,3,Yes
+R1836,2024-04-26,East,35-44,Male,Master's,Product C,Satisfied,Promoter,1,No
+R1837,2024-06-17,West,18-24,Male,Master's,Product D,Very Satisfied,Passive,10,Maybe
+R1838,2024-04-20,North,45-54,Female,High School,Product A,Satisfied,Passive,7,Yes
+R1839,2024-05-13,West,35-44,Male,High School,Product B,Satisfied,Promoter,10,Yes
+R1840,2024-04-08,Central,35-44,Female,High School,Product C,Very Satisfied,Passive,1,Yes
+R1841,2024-05-11,Central,25-34,Male,High School,Product B,Very Dissatisfied,Passive,8,Yes
+R1842,2024-05-03,East,18-24,Female,High School,Product D,Dissatisfied,Promoter,8,Yes
+R1843,2024-01-18,West,55+,Male,Master's,Product E,Satisfied,Passive,4,No
+R1844,2024-05-25,South,25-34,Female,High School,Product C,Very Satisfied,Passive,1,No
+R1845,2024-05-11,North,55+,Female,Bachelor's,Product A,Very Satisfied,Passive,9,Maybe
+R1846,2024-04-13,South,35-44,Male,Master's,Product B,Neutral,Promoter,5,Yes
+R1847,2024-03-14,South,35-44,Female,Master's,Product B,Very Dissatisfied,Passive,4,Maybe
+R1848,2024-03-31,West,35-44,Female,Bachelor's,Product C,Satisfied,Promoter,1,Yes
+R1849,2024-01-09,East,35-44,Female,High School,Product E,Very Satisfied,Promoter,1,Yes
+R1850,2024-01-06,Central,18-24,Female,Bachelor's,Product C,Very Dissatisfied,Promoter,2,Yes
+R1851,2024-05-21,East,25-34,Male,High School,Product A,Satisfied,Promoter,5,No
+R1852,2024-06-01,South,18-24,Female,High School,Product D,Very Dissatisfied,Passive,7,No
+R1853,2024-02-06,Central,35-44,Female,PhD,Product B,Satisfied,Promoter,4,Yes
+R1854,2024-01-25,West,55+,Male,Bachelor's,Product C,Neutral,Promoter,9,No
+R1855,2024-01-05,South,55+,Male,Bachelor's,Product D,Neutral,Detractor,2,Yes
+R1856,2024-06-08,West,18-24,Male,Master's,Product E,Satisfied,Passive,2,No
+R1857,2024-02-11,Central,18-24,Female,Bachelor's,Product B,Very Satisfied,Passive,9,Yes
+R1858,2024-03-29,West,25-34,Male,PhD,Product B,Satisfied,Detractor,7,Maybe
+R1859,2024-05-19,East,18-24,Female,Bachelor's,Product D,Satisfied,Passive,4,Yes
+R1860,2024-03-09,South,35-44,Male,Bachelor's,Product B,Satisfied,Passive,2,Yes
+R1861,2024-02-22,North,18-24,Male,High School,Product D,Satisfied,Detractor,6,Yes
+R1862,2024-03-16,Central,45-54,Male,Bachelor's,Product D,Neutral,Passive,1,Maybe
+R1863,2024-05-02,North,45-54,Female,Master's,Product B,Satisfied,Promoter,1,No
+R1864,2024-03-11,North,55+,Male,Bachelor's,Product B,Very Satisfied,Passive,6,Yes
+R1865,2024-04-17,East,18-24,Male,Master's,Product E,Neutral,Promoter,4,Maybe
+R1866,2024-03-31,Central,45-54,Male,Bachelor's,Product A,Satisfied,Passive,6,Maybe
+R1867,2024-01-26,South,18-24,Male,High School,Product E,Very Dissatisfied,Detractor,10,Maybe
+R1868,2024-01-12,Central,25-34,Female,High School,Product C,Very Satisfied,Detractor,2,Maybe
+R1869,2024-03-26,East,25-34,Female,Bachelor's,Product B,Very Dissatisfied,Detractor,5,Yes
+R1870,2024-04-27,Central,25-34,Female,Bachelor's,Product A,Satisfied,Promoter,10,Yes
+R1871,2024-01-24,Central,18-24,Female,Master's,Product E,Neutral,Promoter,3,No
+R1872,2024-06-25,West,25-34,Male,Master's,Product B,Neutral,Promoter,6,Maybe
+R1873,2024-04-04,East,25-34,Female,PhD,Product C,Satisfied,Promoter,2,Yes
+R1874,2024-05-31,South,25-34,Male,PhD,Product A,Satisfied,Promoter,4,Yes
+R1875,2024-06-23,East,25-34,Female,Bachelor's,Product C,Very Satisfied,Passive,7,Yes
+R1876,2024-01-12,South,45-54,Female,Bachelor's,Product D,Dissatisfied,Passive,4,No
+R1877,2024-05-27,South,55+,Male,Master's,Product D,Very Satisfied,Passive,3,Yes
+R1878,2024-01-03,Central,18-24,Female,High School,Product B,Dissatisfied,Promoter,7,Maybe
+R1879,2024-01-29,South,25-34,Female,High School,Product D,Dissatisfied,Promoter,1,Maybe
+R1880,2024-01-08,East,18-24,Male,Master's,Product E,Neutral,Detractor,3,Yes
+R1881,2024-03-30,West,55+,Female,Bachelor's,Product C,Satisfied,Detractor,5,Maybe
+R1882,2024-03-09,North,25-34,Female,Bachelor's,Product B,Satisfied,Passive,2,No
+R1883,2024-02-03,South,55+,Male,Bachelor's,Product B,Neutral,Passive,10,Yes
+R1884,2024-05-18,East,18-24,Female,Master's,Product E,Satisfied,Passive,7,No
+R1885,2024-02-09,South,45-54,Male,Bachelor's,Product A,Satisfied,Promoter,8,Maybe
+R1886,2024-05-23,West,25-34,Male,Bachelor's,Product C,Dissatisfied,Detractor,9,Yes
+R1887,2024-01-10,West,45-54,Female,High School,Product B,Neutral,Detractor,10,Yes
+R1888,2024-06-08,East,25-34,Female,Bachelor's,Product B,Neutral,Promoter,6,Yes
+R1889,2024-03-02,South,55+,Female,PhD,Product A,Satisfied,Promoter,10,Maybe
+R1890,2024-05-15,West,35-44,Female,Bachelor's,Product C,Satisfied,Detractor,6,Yes
+R1891,2024-05-10,West,55+,Non-binary,Bachelor's,Product A,Very Satisfied,Passive,3,Yes
+R1892,2024-05-11,North,55+,Male,Bachelor's,Product D,Satisfied,Promoter,3,No
+R1893,2024-02-23,West,35-44,Female,Master's,Product A,Neutral,Promoter,5,Yes
+R1894,2024-05-07,North,18-24,Female,Bachelor's,Product B,Very Satisfied,Passive,3,Maybe
+R1895,2024-02-15,North,45-54,Female,High School,Product A,Neutral,Detractor,1,Yes
+R1896,2024-05-11,East,35-44,Male,High School,Product A,Very Satisfied,Promoter,5,Yes
+R1897,2024-03-24,West,18-24,Female,Bachelor's,Product B,Satisfied,Promoter,6,Yes
+R1898,2024-03-23,Central,25-34,Male,Bachelor's,Product B,Neutral,Promoter,8,No
+R1899,2024-06-29,East,35-44,Female,High School,Product B,Neutral,Passive,1,Yes
+R1900,2024-05-27,South,25-34,Female,PhD,Product E,Dissatisfied,Passive,4,Yes
+R1901,2024-06-05,East,25-34,Non-binary,Master's,Product E,Dissatisfied,Promoter,3,Yes
+R1902,2024-02-18,South,35-44,Female,PhD,Product D,Satisfied,Promoter,8,Yes
+R1903,2024-02-06,North,55+,Female,High School,Product B,Neutral,Detractor,4,Yes
+R1904,2024-01-30,East,18-24,Male,Master's,Product D,Satisfied,Passive,3,Yes
+R1905,2024-04-10,Central,35-44,Female,Master's,Product E,Very Dissatisfied,Promoter,4,Yes
+R1906,2024-05-12,South,18-24,Non-binary,Bachelor's,Product E,Very Satisfied,Promoter,10,Maybe
+R1907,2024-03-13,West,35-44,Male,Master's,Product B,Neutral,Passive,6,Maybe
+R1908,2024-05-07,East,55+,Female,Bachelor's,Product C,Satisfied,Passive,9,No
+R1909,2024-03-27,South,55+,Male,High School,Product C,Dissatisfied,Detractor,10,No
+R1910,2024-05-28,West,55+,Non-binary,Master's,Product A,Very Satisfied,Detractor,10,No
+R1911,2024-05-19,South,25-34,Female,Master's,Product B,Neutral,Promoter,1,Yes
+R1912,2024-01-20,East,35-44,Female,Master's,Product C,Very Dissatisfied,Passive,10,No
+R1913,2024-04-12,South,45-54,Male,Master's,Product C,Dissatisfied,Passive,7,Yes
+R1914,2024-03-11,North,55+,Male,Master's,Product A,Dissatisfied,Detractor,7,Yes
+R1915,2024-01-01,Central,55+,Male,Master's,Product B,Very Dissatisfied,Passive,2,No
+R1916,2024-06-18,South,35-44,Male,High School,Product A,Very Satisfied,Detractor,6,Yes
+R1917,2024-06-26,South,45-54,Male,PhD,Product D,Satisfied,Detractor,6,Yes
+R1918,2024-04-11,North,55+,Male,Bachelor's,Product E,Dissatisfied,Promoter,6,No
+R1919,2024-01-15,West,25-34,Female,PhD,Product E,Satisfied,Promoter,4,No
+R1920,2024-02-07,North,25-34,Female,Bachelor's,Product A,Very Satisfied,Passive,8,Yes
+R1921,2024-01-07,Central,55+,Female,High School,Product D,Satisfied,Passive,9,Yes
+R1922,2024-05-20,Central,35-44,Female,High School,Product A,Satisfied,Promoter,8,Maybe
+R1923,2024-04-02,Central,55+,Male,Master's,Product D,Satisfied,Detractor,6,Yes
+R1924,2024-03-18,Central,25-34,Female,Bachelor's,Product B,Very Dissatisfied,Promoter,7,Maybe
+R1925,2024-03-23,South,45-54,Female,Bachelor's,Product A,Neutral,Promoter,4,Yes
+R1926,2024-03-07,South,35-44,Female,Bachelor's,Product C,Very Satisfied,Detractor,6,No
+R1927,2024-01-17,North,45-54,Male,Bachelor's,Product A,Neutral,Passive,5,Yes
+R1928,2024-03-02,West,18-24,Male,Bachelor's,Product B,Very Dissatisfied,Promoter,1,Maybe
+R1929,2024-06-11,North,35-44,Male,PhD,Product A,Neutral,Promoter,1,Yes
+R1930,2024-04-12,Central,55+,Female,Bachelor's,Product D,Very Dissatisfied,Promoter,7,Yes
+R1931,2024-03-03,East,18-24,Male,High School,Product A,Dissatisfied,Passive,10,Yes
+R1932,2024-05-20,South,55+,Male,Bachelor's,Product B,Very Satisfied,Passive,4,No
+R1933,2024-02-13,West,55+,Male,Bachelor's,Product A,Very Satisfied,Detractor,8,Maybe
+R1934,2024-01-03,Central,55+,Female,Bachelor's,Product B,Satisfied,Promoter,1,Yes
+R1935,2024-02-27,West,35-44,Male,Bachelor's,Product E,Very Satisfied,Passive,1,No
+R1936,2024-04-18,Central,18-24,Male,Master's,Product E,Neutral,Promoter,9,Yes
+R1937,2024-03-11,East,45-54,Male,High School,Product C,Neutral,Passive,7,Yes
+R1938,2024-02-19,North,35-44,Female,Master's,Product C,Dissatisfied,Promoter,1,Yes
+R1939,2024-01-31,Central,18-24,Male,High School,Product B,Very Dissatisfied,Passive,1,No
+R1940,2024-06-01,Central,35-44,Female,Bachelor's,Product D,Dissatisfied,Detractor,1,Yes
+R1941,2024-06-28,South,45-54,Female,Bachelor's,Product A,Satisfied,Passive,4,Maybe
+R1942,2024-04-27,Central,18-24,Female,Bachelor's,Product D,Dissatisfied,Detractor,9,Maybe
+R1943,2024-05-28,North,45-54,Male,Bachelor's,Product E,Satisfied,Promoter,5,Yes
+R1944,2024-03-28,West,25-34,Male,Bachelor's,Product A,Very Satisfied,Detractor,7,Maybe
+R1945,2024-06-26,North,18-24,Female,Master's,Product E,Very Satisfied,Passive,5,Yes
+R1946,2024-04-01,North,18-24,Female,Bachelor's,Product D,Dissatisfied,Promoter,9,Yes
+R1947,2024-05-30,East,18-24,Female,High School,Product C,Satisfied,Passive,2,Yes
+R1948,2024-02-14,West,25-34,Male,High School,Product A,Very Dissatisfied,Promoter,9,Maybe
+R1949,2024-04-12,South,45-54,Female,Master's,Product B,Satisfied,Passive,6,No
+R1950,2024-06-07,Central,18-24,Female,PhD,Product E,Satisfied,Detractor,10,Maybe
+R1951,2024-04-11,Central,55+,Female,Bachelor's,Product B,Satisfied,Detractor,1,No
+R1952,2024-05-04,West,55+,Male,Bachelor's,Product A,Satisfied,Promoter,4,Yes
+R1953,2024-02-04,South,25-34,Female,Bachelor's,Product B,Very Satisfied,Passive,8,Maybe
+R1954,2024-05-21,East,55+,Male,Bachelor's,Product D,Very Dissatisfied,Promoter,4,Yes
+R1955,2024-05-06,East,25-34,Female,High School,Product B,Dissatisfied,Detractor,1,Yes
+R1956,2024-03-27,West,35-44,Male,High School,Product A,Very Satisfied,Passive,8,Maybe
+R1957,2024-05-03,South,35-44,Male,High School,Product B,Very Satisfied,Detractor,3,Yes
+R1958,2024-04-02,North,25-34,Female,Master's,Product C,Neutral,Detractor,6,Yes
+R1959,2024-01-11,Central,25-34,Female,Master's,Product D,Neutral,Detractor,7,Yes
+R1960,2024-03-26,Central,45-54,Female,Bachelor's,Product B,Neutral,Promoter,1,Maybe
+R1961,2024-04-11,West,45-54,Female,Master's,Product A,Neutral,Passive,8,Maybe
+R1962,2024-06-04,West,18-24,Non-binary,Bachelor's,Product A,Very Satisfied,Passive,3,Yes
+R1963,2024-05-15,South,55+,Female,Bachelor's,Product A,Very Satisfied,Promoter,3,No
+R1964,2024-02-15,Central,18-24,Male,PhD,Product E,Very Satisfied,Promoter,9,Yes
+R1965,2024-01-04,Central,45-54,Male,Bachelor's,Product C,Very Satisfied,Promoter,5,Yes
+R1966,2024-02-26,North,55+,Female,Bachelor's,Product A,Satisfied,Passive,10,Yes
+R1967,2024-03-24,West,25-34,Female,Bachelor's,Product A,Satisfied,Passive,7,Yes
+R1968,2024-01-29,East,55+,Male,Bachelor's,Product E,Satisfied,Passive,4,Yes
+R1969,2024-02-20,South,45-54,Female,High School,Product B,Neutral,Promoter,7,Maybe
+R1970,2024-06-22,West,55+,Female,High School,Product C,Neutral,Promoter,1,Yes
+R1971,2024-02-04,West,55+,Female,Bachelor's,Product B,Very Satisfied,Passive,6,Yes
+R1972,2024-03-10,South,35-44,Male,Bachelor's,Product D,Satisfied,Promoter,8,No
+R1973,2024-05-25,South,55+,Male,Bachelor's,Product B,Very Dissatisfied,Promoter,4,Yes
+R1974,2024-03-15,West,55+,Female,High School,Product D,Very Dissatisfied,Passive,9,No
+R1975,2024-03-29,South,55+,Female,Bachelor's,Product A,Very Dissatisfied,Passive,8,Yes
+R1976,2024-03-03,East,45-54,Male,Bachelor's,Product A,Dissatisfied,Detractor,5,Yes
+R1977,2024-05-19,East,45-54,Female,Bachelor's,Product D,Very Satisfied,Passive,5,Maybe
+R1978,2024-02-25,South,35-44,Male,Master's,Product E,Very Satisfied,Detractor,10,Maybe
+R1979,2024-04-29,North,45-54,Female,Master's,Product C,Satisfied,Promoter,4,Yes
+R1980,2024-01-24,East,45-54,Male,High School,Product B,Satisfied,Promoter,7,Yes
+R1981,2024-04-30,South,55+,Male,High School,Product B,Satisfied,Detractor,8,Yes
+R1982,2024-06-06,South,25-34,Female,Master's,Product D,Very Satisfied,Promoter,1,Yes
+R1983,2024-01-18,West,18-24,Female,High School,Product E,Dissatisfied,Passive,9,Yes
+R1984,2024-03-08,North,25-34,Female,High School,Product A,Very Dissatisfied,Promoter,4,No
+R1985,2024-01-16,South,45-54,Male,Master's,Product B,Satisfied,Passive,9,Maybe
+R1986,2024-03-23,Central,35-44,Female,PhD,Product A,Satisfied,Promoter,7,Yes
+R1987,2024-02-29,Central,55+,Male,Bachelor's,Product D,Neutral,Detractor,9,No
+R1988,2024-02-08,Central,18-24,Female,Master's,Product D,Very Satisfied,Passive,7,Yes
+R1989,2024-03-25,Central,18-24,Male,Bachelor's,Product B,Neutral,Passive,7,Yes
+R1990,2024-01-22,Central,35-44,Female,Master's,Product B,Neutral,Promoter,3,Maybe
+R1991,2024-04-21,South,55+,Female,Bachelor's,Product A,Satisfied,Passive,5,Yes
+R1992,2024-01-04,North,55+,Female,High School,Product A,Satisfied,Passive,2,No
+R1993,2024-05-06,North,18-24,Female,Bachelor's,Product C,Satisfied,Promoter,9,No
+R1994,2024-01-13,North,55+,Male,Master's,Product B,Satisfied,Promoter,10,Yes
+R1995,2024-01-20,East,45-54,Female,Bachelor's,Product C,Satisfied,Passive,6,Yes
+R1996,2024-02-18,Central,25-34,Male,Bachelor's,Product C,Very Satisfied,Passive,2,Yes
+R1997,2024-06-04,North,55+,Female,PhD,Product A,Satisfied,Passive,9,Yes
+R1998,2024-03-19,South,55+,Female,PhD,Product B,Dissatisfied,Passive,2,Maybe
+R1999,2024-01-19,North,55+,Female,Bachelor's,Product A,Very Satisfied,Detractor,5,Maybe
