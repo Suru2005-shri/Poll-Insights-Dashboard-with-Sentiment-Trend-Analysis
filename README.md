@@ -1,4 +1,4 @@
-# 📊 Poll Results Visualizer
+Poll Results Visualizer
 
 > A complete, industry-oriented **Survey Data Analysis & Visualization** project built for placement portfolios.
 
@@ -11,7 +11,7 @@
 
 ---
 
-## 📌 Problem Statement
+Problem Statement
 
 Organizations collect thousands of poll/survey responses but struggle to:
 - Identify **which product, candidate, or option leads**
@@ -19,7 +19,7 @@ Organizations collect thousands of poll/survey responses but struggle to:
 - Track **satisfaction trends over time**
 - Generate **actionable insights** quickly
 
-## ✅ Solution
+##  Solution
 
 A fully automated Python pipeline that:
 1. Accepts poll data (CSV or synthetic)
@@ -30,19 +30,19 @@ A fully automated Python pipeline that:
 
 ---
 
-## 🚀 Features
+##  Features
 
 | Feature | Details |
 |---|---|
-| 📥 Data Ingestion | CSV upload or synthetic data generation |
-| 🧹 Data Cleaning | Deduplication, null handling, type parsing |
-| 📊 10 Chart Types | Bar, Pie, Stacked, Heatmap, Trend, Donut, Grouped |
-| 🌍 Region Analysis | Preference breakdown by geographic region |
-| 👥 Demographics | Age group & gender analysis |
-| 😊 Satisfaction | 5-point scale + NPS score calculation |
-| 📈 Trend Analysis | Monthly voting trend per product |
-| 💡 Auto Insights | 8 key insights generated automatically |
-| 🖥️ Dashboard | Interactive Streamlit dashboard with live filters |
+|  Data Ingestion | CSV upload or synthetic data generation |
+|  Data Cleaning | Deduplication, null handling, type parsing |
+|  10 Chart Types | Bar, Pie, Stacked, Heatmap, Trend, Donut, Grouped |
+|  Region Analysis | Preference breakdown by geographic region |
+|  Demographics | Age group & gender analysis |
+|  Satisfaction | 5-point scale + NPS score calculation |
+|  Trend Analysis | Monthly voting trend per product |
+|  Auto Insights | 8 key insights generated automatically |
+|  Dashboard | Interactive Streamlit dashboard with live filters |
 
 ---
 
@@ -58,7 +58,7 @@ Python 3.9+
 
 ---
 
-## 📁 Folder Structure
+##  Folder Structure
 
 ```
 Poll-Results-Visualizer/
@@ -84,7 +84,7 @@ Poll-Results-Visualizer/
 
 ---
 
-## ⚙️ Installation
+##  Installation
 
 ```bash
 # 1. Clone the repo
@@ -101,7 +101,7 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 ### Option A — CLI (generates all charts as PNG files)
 ```bash
@@ -117,7 +117,7 @@ Opens at `http://localhost:8501`
 
 ---
 
-## 📈 Charts Generated
+##  Charts Generated
 
 | # | Chart | Purpose |
 |---|---|---|
@@ -134,32 +134,27 @@ Opens at `http://localhost:8501`
 
 ---
 
-## 💡 Sample Insights
+##  Sample Insights
 
-- 🏆 **Product A leads** overall with 25.3% of all votes
-- 🌍 Product A is most popular in the **North region**
-- 📊 **NPS Score: 17.3** — needs improvement
-- ⭐ Average respondent rating: **5.52 / 10**
-
----
-
-## 🎯 Real-World Use Cases
-
-- 🗳️ **Election Poll Analysis** — track candidate preferences
-- 🛍️ **Product Preference Surveys** — which SKU wins?
-- 😊 **Employee Satisfaction** — HR annual surveys
-- 🎓 **Classroom Feedback** — post-course evaluation
-- 📱 **App Feature Voting** — what to build next
+-  **Product A leads** overall with 25.3% of all votes
+-  Product A is most popular in the **North region**
+-  **NPS Score: 17.3** — needs improvement
+-  Average respondent rating: **5.52 / 10**
 
 ---
 
-## 👤 Author
+##  Real-World Use Cases
 
-**Your Name**  
-[LinkedIn](#) · [GitHub](#)
+-  **Election Poll Analysis** — track candidate preferences
+-  **Product Preference Surveys** — which SKU wins?
+-  **Employee Satisfaction** — HR annual surveys
+-  **Classroom Feedback** — post-course evaluation
+-  **App Feature Voting** — what to build next
+
+
 
 ---
 
-## 📄 License
+##  License
 
 MIT License — free to use for learning and portfolio.
