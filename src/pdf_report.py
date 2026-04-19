@@ -173,7 +173,9 @@ def generate_pdf_report(df, output_path="outputs/Poll_Results_Report.pdf"):
     date_range = f"{df['date'].min().strftime('%b %d')} – {df['date'].max().strftime('%b %d, %Y')}"
 
     pdf = PollReport()
-    pdf.add_font("DejaVu", "", "DejaVuSans.ttf", uni=True)
+  
+        pdf.add_font("DejaVu", "", "C:/Users/SHRUTI/Documents/polll/dejavu-fonts-ttf-2.37/ttf/DejaVuSans.ttf", uni=True)
+
     pdf.set_font("DejaVu", "", 12)
     pdf.set_auto_page_break(auto=True, margin=15)
 
