@@ -182,7 +182,7 @@ def run_full_significance_report(df):
         print(f"     (p={region_test['p_value']}, Cramér's V={region_test['cramers_v']})")
         print(f"     → Safe to report regional breakdowns as real patterns.")
     else:
-        print(f" Regional differences are NOT significant — may be sampling noise.")
+        print(f" Regional differences are NOT significant - may be sampling noise.")
 
     age_test = tests[1]
     if age_test["p_value"] < 0.05:
