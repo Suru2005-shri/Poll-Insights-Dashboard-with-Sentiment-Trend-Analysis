@@ -152,7 +152,8 @@ class PollReport(FPDF):
         color = (15, 110, 86) if p_val < 0.05 else (180, 0, 0)
         self.set_text_color(*color)
         self.set_x(15)
-        self.cell(0, 5, conclusion, ln=True)
+        self.cell(0, 5, conclusion.replace("≥", ">=").replace("≤", "<=").replace("—", "-").replace("–", "-"), ln=True)
+
         self.ln(2)
 
 
