@@ -134,7 +134,8 @@ class PollReport(FPDF):
             self.image(img_path, x=x, w=w)
             self.set_font("Helvetica", "I", 9)
             self.set_text_color(*self.GRAY)
-            self.cell(0, 5, caption, align="C", ln=True)
+            self.cell(0, 5, clean_text(caption), align="C", ln=True)
+
             self.ln(4)
         except Exception as e:
             print(f"Could not embed {img_path}: {e}")
