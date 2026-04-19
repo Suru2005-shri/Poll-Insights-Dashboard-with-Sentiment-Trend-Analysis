@@ -40,7 +40,7 @@ class PollReport(FPDF):
         self.set_font("Helvetica", "B", 9)
         self.set_text_color(255, 255, 255)
         self.set_xy(10, 2)
-        self.cell(0, 6, "Poll Results Visualizer — Confidential Report", ln=False)
+        self.cell(0, 6, "Poll Results Visualizer - Confidential Report", ln=False)
         self.set_xy(0, 2)
         self.cell(200, 6, f"Page {self.page_no()}", align="R")
         self.ln(12)
